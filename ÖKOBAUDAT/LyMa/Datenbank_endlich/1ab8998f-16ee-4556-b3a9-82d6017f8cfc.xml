@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<XML>
+    <Flows/>
+    <ProcessModules/>
+    <FlowValueMapGroups/>
+    <ProductSystems/>
+    <ImpactCategories>
+        <ImpactCategory>
+            <Category>Klimawandel</Category>
+            <Indicator>
+                    kg CO2-Äqv.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Abbau der stratosphärischen Ozonschicht</Category>
+            <Indicator>
+                    kg R11 eq.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Versauerung</Category>
+            <Indicator>
+                    kg SO2-Äqv.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Eutrophierung</Category>
+            <Indicator>
+                    kg Phosphat-Äqv.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Bildung von troposphärischen Ozon</Category>
+            <Indicator>
+                    kg Ethen-Äqv.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Verknappung von abiotischen Ressourcen(Elemente) </Category>
+            <Indicator>
+                    kg Sb-Äqv.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Verknappung von fossiler Ressourcen</Category>
+            <Indicator>
+                    MJ
+                </Indicator>
+        </ImpactCategory>
+    </ImpactCategories>
+    <CFactors/>
+    <LCIAMethods/>
+    <ProductDeclarations>
+        <ProductDeclaration>
+            <PD-Name>Röhrenspanplatte(de)</PD-Name>
+            <PD-Unit>m3</PD-Unit>
+            <ImpactValuesVector>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Klimawandel</ImpactCategorie-Name>
+                    <ICV-MainValue>-204.49</ICV-MainValue>
+                    <ICV-UpperBound>-204.49</ICV-UpperBound>
+                    <ICV-LowerBound>-204.49</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Abbau der stratosphärischen Ozonschicht</ImpactCategorie-Name>
+                    <ICV-MainValue>0</ICV-MainValue>
+                    <ICV-UpperBound>0</ICV-UpperBound>
+                    <ICV-LowerBound>0</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Versauerung</ImpactCategorie-Name>
+                    <ICV-MainValue>0.48</ICV-MainValue>
+                    <ICV-UpperBound>0.48</ICV-UpperBound>
+                    <ICV-LowerBound>0.48</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Eutrophierung</ImpactCategorie-Name>
+                    <ICV-MainValue>0.13</ICV-MainValue>
+                    <ICV-UpperBound>0.13</ICV-UpperBound>
+                    <ICV-LowerBound>0.13</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Bildung von troposphärischen Ozon</ImpactCategorie-Name>
+                    <ICV-MainValue>0.2</ICV-MainValue>
+                    <ICV-UpperBound>0.2</ICV-UpperBound>
+                    <ICV-LowerBound>0.2</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Verknappung von abiotischen Ressourcen(Elemente) </ImpactCategorie-Name>
+                    <ICV-MainValue>0</ICV-MainValue>
+                    <ICV-UpperBound>0</ICV-UpperBound>
+                    <ICV-LowerBound>0</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Verknappung von fossiler Ressourcen</ImpactCategorie-Name>
+                    <ICV-MainValue>3671.53</ICV-MainValue>
+                    <ICV-UpperBound>3671.53</ICV-UpperBound>
+                    <ICV-LowerBound>3671.53</ICV-LowerBound>
+                </IVV-Entry>
+            </ImpactValuesVector>
+        </ProductDeclaration>
+    </ProductDeclarations>
+    <ImpactValueMapGroups/>
+    <Components>
+        <Component>
+            <Component-Name>Komponent_Röhrenspanplatte (Durchschnitt DE)</Component-Name>
+            <Component-Unit>m3</Component-Unit>
+            <Component-Reference>Röhrenspanplatte(de)</Component-Reference>
+            <ComRef-MainValue>1.0</ComRef-MainValue>
+            <ComRef-LowerBound>1.0</ComRef-LowerBound>
+            <ComRef-UpperBound>1.0</ComRef-UpperBound>
+        </Component>
+    </Components>
+    <Compositions/>
+</XML>

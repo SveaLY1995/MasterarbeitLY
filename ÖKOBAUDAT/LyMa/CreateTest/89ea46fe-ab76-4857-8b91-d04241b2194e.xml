@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<XML>
+    <Flows/>
+    <ProcessModules/>
+    <FlowValueMapGroups/>
+    <ProductSystems/>
+    <ImpactCategories>
+        <ImpactCategory>
+            <Category>Klimawandel</Category>
+            <Indicator>
+                    kg CO2-Äqv.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Abbau der stratosphärischen Ozonschicht</Category>
+            <Indicator>
+                    kg R11-Äqv.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Versauerung</Category>
+            <Indicator>
+                    kg SO2-Äqv.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Eutrophierung</Category>
+            <Indicator>
+                    kg Phosphat-Äqv.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Bildung von troposphärischen Ozon</Category>
+            <Indicator>
+                    kg Ethen-Äqv.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Verknappung von abiotischen Ressourcen(Elemente) </Category>
+            <Indicator>
+                    kg Sb-Äqv.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Verknappung von fossiler Ressourcen</Category>
+            <Indicator>
+                    MJ
+                </Indicator>
+        </ImpactCategory>
+    </ImpactCategories>
+    <CFactors/>
+    <LCIAMethods/>
+    <ProductDeclarations>
+        <ProductDeclaration>
+            <PD-Name>Hobelware (Durchschnitt DE)(de)</PD-Name>
+            <PD-Unit>m3</PD-Unit>
+            <ImpactValuesVector>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Klimawandel</ImpactCategorie-Name>
+                    <ICV-MainValue>-663.6</ICV-MainValue>
+                    <ICV-UpperBound>-663.6</ICV-UpperBound>
+                    <ICV-LowerBound>-663.6</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Abbau der stratosphärischen Ozonschicht</ImpactCategorie-Name>
+                    <ICV-MainValue>0</ICV-MainValue>
+                    <ICV-UpperBound>0</ICV-UpperBound>
+                    <ICV-LowerBound>0</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Versauerung</ImpactCategorie-Name>
+                    <ICV-MainValue>0.83</ICV-MainValue>
+                    <ICV-UpperBound>0.83</ICV-UpperBound>
+                    <ICV-LowerBound>0.83</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Eutrophierung</ImpactCategorie-Name>
+                    <ICV-MainValue>0.18</ICV-MainValue>
+                    <ICV-UpperBound>0.18</ICV-UpperBound>
+                    <ICV-LowerBound>0.18</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Bildung von troposphärischen Ozon</ImpactCategorie-Name>
+                    <ICV-MainValue>0.15</ICV-MainValue>
+                    <ICV-UpperBound>0.15</ICV-UpperBound>
+                    <ICV-LowerBound>0.15</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Verknappung von abiotischen Ressourcen(Elemente) </ImpactCategorie-Name>
+                    <ICV-MainValue>0</ICV-MainValue>
+                    <ICV-UpperBound>0</ICV-UpperBound>
+                    <ICV-LowerBound>0</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Verknappung von fossiler Ressourcen</ImpactCategorie-Name>
+                    <ICV-MainValue>1500.23</ICV-MainValue>
+                    <ICV-UpperBound>1500.23</ICV-UpperBound>
+                    <ICV-LowerBound>1500.23</ICV-LowerBound>
+                </IVV-Entry>
+            </ImpactValuesVector>
+        </ProductDeclaration>
+    </ProductDeclarations>
+    <ImpactValueMapGroups/>
+    <Components>
+        <Component>
+            <Component-Name>Komponent_Hobelware (Durchschnitt DE)</Component-Name>
+            <Component-Unit>m3</Component-Unit>
+            <Component-Reference>Hobelware (Durchschnitt DE)(de)</Component-Reference>
+            <ComRef-MainValue>1.0</ComRef-MainValue>
+            <ComRef-LowerBound>1.0</ComRef-LowerBound>
+            <ComRef-UpperBound>1.0</ComRef-UpperBound>
+        </Component>
+    </Components>
+    <Compositions/>
+</XML>

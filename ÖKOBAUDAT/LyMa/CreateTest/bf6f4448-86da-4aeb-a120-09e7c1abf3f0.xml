@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<XML>
+    <Flows/>
+    <ProcessModules/>
+    <FlowValueMapGroups/>
+    <ProductSystems/>
+    <ImpactCategories>
+        <ImpactCategory>
+            <Category>Verknappung von abiotischen Ressourcen(Elemente) </Category>
+            <Indicator>
+                    kg Sb eq.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Verknappung von fossiler Ressourcen</Category>
+            <Indicator>
+                    MJ
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Versauerung</Category>
+            <Indicator>
+                    kg SO2 eq.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Eutrophierung</Category>
+            <Indicator>
+                    kg (PO4)3- eq.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Klimawandel</Category>
+            <Indicator>
+                    kg CO2 eq.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Abbau der stratosphärischen Ozonschicht</Category>
+            <Indicator>
+                    kg CFC 11 eq.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Bildung von troposphärischen Ozon</Category>
+            <Indicator>
+                    kg C2H2 eq.
+                </Indicator>
+        </ImpactCategory>
+    </ImpactCategories>
+    <CFactors/>
+    <LCIAMethods/>
+    <ProductDeclarations>
+        <ProductDeclaration>
+            <PD-Name>Rahmenprofile für Fassaden - Verband Fenster + Fassade - Rahmenprofil für Stahl-/Edelstahlfassade(de)</PD-Name>
+            <PD-Unit>m</PD-Unit>
+            <ImpactValuesVector>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Verknappung von abiotischen Ressourcen(Elemente) </ImpactCategorie-Name>
+                    <ICV-MainValue>0</ICV-MainValue>
+                    <ICV-UpperBound>0</ICV-UpperBound>
+                    <ICV-LowerBound>0</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Verknappung von fossiler Ressourcen</ImpactCategorie-Name>
+                    <ICV-MainValue>1720.06</ICV-MainValue>
+                    <ICV-UpperBound>1720.06</ICV-UpperBound>
+                    <ICV-LowerBound>1720.06</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Versauerung</ImpactCategorie-Name>
+                    <ICV-MainValue>0.41</ICV-MainValue>
+                    <ICV-UpperBound>0.41</ICV-UpperBound>
+                    <ICV-LowerBound>0.41</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Eutrophierung</ImpactCategorie-Name>
+                    <ICV-MainValue>0.03</ICV-MainValue>
+                    <ICV-UpperBound>0.03</ICV-UpperBound>
+                    <ICV-LowerBound>0.03</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Klimawandel</ImpactCategorie-Name>
+                    <ICV-MainValue>135.4</ICV-MainValue>
+                    <ICV-UpperBound>135.4</ICV-UpperBound>
+                    <ICV-LowerBound>135.4</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Abbau der stratosphärischen Ozonschicht</ImpactCategorie-Name>
+                    <ICV-MainValue>0</ICV-MainValue>
+                    <ICV-UpperBound>0</ICV-UpperBound>
+                    <ICV-LowerBound>0</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Bildung von troposphärischen Ozon</ImpactCategorie-Name>
+                    <ICV-MainValue>0.03</ICV-MainValue>
+                    <ICV-UpperBound>0.03</ICV-UpperBound>
+                    <ICV-LowerBound>0.03</ICV-LowerBound>
+                </IVV-Entry>
+            </ImpactValuesVector>
+        </ProductDeclaration>
+    </ProductDeclarations>
+    <ImpactValueMapGroups/>
+    <Components>
+        <Component>
+            <Component-Name>Komponent_Rahmenprofile für Fassaden - Verband Fenster + Fassade - Rahmenprofil für Stahl-/Edelstahlfassade</Component-Name>
+            <Component-Unit>m</Component-Unit>
+            <Component-Reference>Rahmenprofile für Fassaden - Verband Fenster + Fassade - Rahmenprofil für Stahl-/Edelstahlfassade(de)</Component-Reference>
+            <ComRef-MainValue>1.0</ComRef-MainValue>
+            <ComRef-LowerBound>1.0</ComRef-LowerBound>
+            <ComRef-UpperBound>1.0</ComRef-UpperBound>
+        </Component>
+    </Components>
+    <Compositions/>
+</XML>

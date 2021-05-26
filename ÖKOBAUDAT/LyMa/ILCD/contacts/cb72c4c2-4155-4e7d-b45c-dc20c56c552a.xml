@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>cb72c4c2-4155-4e7d-b45c-dc20c56c552a</common:UUID>
+                  <common:shortName xml:lang='de'>Sager AG</common:shortName>
+                  <common:name xml:lang='de'>Sager AG</common:name>
+                  <contactAddress xml:lang='de'>Dornhügelstrasse 10, 5724 Dürrenäsch, Switzerland</contactAddress>
+                  <telephone>+41 62 767 87 87</telephone>
+                  <telefax>+41 62 767 87 81</telefax>
+                  <email>info@sager.ch</email>
+                  <WWWAddress>www.sager.ch</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2020-10-26T16:04:26.0899809+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>92a84cf3-3ccd-49b4-ad53-39daee166609</common:UUID>
+                  <common:shortName xml:lang='de'>Braas GmbH</common:shortName>
+                  <common:name xml:lang='de'>Braas GmbH</common:name>
+                  <contactAddress xml:lang='de'>Frankfurter Landstraße  2-4, 61440 Oberursel , Germany</contactAddress>
+                  <telephone>06171 61 014</telephone>
+                  <telefax>06171 61 23 00</telefax>
+                  <email>info@braas.de</email>
+                  <WWWAddress>http://www.braas-monier.com/de/de/index.html</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2017-05-04T14:26:29.8153725+02:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

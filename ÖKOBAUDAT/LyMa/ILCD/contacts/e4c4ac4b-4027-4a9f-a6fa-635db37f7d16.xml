@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>e4c4ac4b-4027-4a9f-a6fa-635db37f7d16</common:UUID>
+                  <common:shortName xml:lang='de'>denkstatt Bulgaria OOD</common:shortName>
+                  <common:name xml:lang='de'>denkstatt Bulgaria OOD</common:name>
+                  <contactAddress xml:lang='de'>Arsenalski blvd 115, 1421 Sofia, Bulgaria</contactAddress>
+                  <telephone>+359 2 470 75 08</telephone>
+                  <telefax>+359 2 416 5611</telefax>
+                  <email>office@denkstatt.bg</email>
+                  <WWWAddress>http://denkstatt.bg/</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2018-02-06T12:52:06.6584692+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.02.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

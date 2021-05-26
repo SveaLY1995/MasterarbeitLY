@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<XML>
+    <Flows/>
+    <ProcessModules/>
+    <FlowValueMapGroups/>
+    <ProductSystems/>
+    <ImpactCategories>
+        <ImpactCategory>
+            <Category>Klimawandel</Category>
+            <Indicator>kg CO2 Äquiv.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Abbau der stratosphärischen Ozonschicht</Category>
+            <Indicator>kg R11 Äquiv.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Versauerung</Category>
+            <Indicator>kg SO2 Äquiv.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Eutrophierung </Category>
+            <Indicator>kg Phosphat Äquiv.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Bildung von troposphärischen Ozon</Category>
+            <Indicator>kg Ethen Äquiv.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Verknappung von abiotischen Ressourcen(Elemente) </Category>
+            <Indicator>kg Sb Äquiv.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Verknappung von fossiler Ressourcen</Category>
+            <Indicator>MJ</Indicator>
+        </ImpactCategory>
+    </ImpactCategories>
+    <CFactors/>
+    <LCIAMethods/>
+    <ProductDeclarations>
+        <ProductDeclaration>
+            <PD-Name>Öl-Niedertemperaturgerät 120-400 kW (Standgerät) (Stück)(de)</PD-Name>
+            <PD-Unit>Items</PD-Unit>
+            <ImpactValuesVector>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Klimawandel</ImpactCategorie-Name>
+                    <ICV-MainValue>2473.51</ICV-MainValue>
+                    <ICV-UpperBound>2473.51</ICV-UpperBound>
+                    <ICV-LowerBound>2473.51</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Abbau der stratosphärischen Ozonschicht</ImpactCategorie-Name>
+                    <ICV-MainValue>0</ICV-MainValue>
+                    <ICV-UpperBound>0</ICV-UpperBound>
+                    <ICV-LowerBound>0</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Versauerung</ImpactCategorie-Name>
+                    <ICV-MainValue>6.39</ICV-MainValue>
+                    <ICV-UpperBound>6.39</ICV-UpperBound>
+                    <ICV-LowerBound>6.39</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Eutrophierung </ImpactCategorie-Name>
+                    <ICV-MainValue>0.65</ICV-MainValue>
+                    <ICV-UpperBound>0.65</ICV-UpperBound>
+                    <ICV-LowerBound>0.65</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Bildung von troposphärischen Ozon</ImpactCategorie-Name>
+                    <ICV-MainValue>0.47</ICV-MainValue>
+                    <ICV-UpperBound>0.47</ICV-UpperBound>
+                    <ICV-LowerBound>0.47</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Verknappung von abiotischen Ressourcen(Elemente) </ImpactCategorie-Name>
+                    <ICV-MainValue>0.08</ICV-MainValue>
+                    <ICV-UpperBound>0.08</ICV-UpperBound>
+                    <ICV-LowerBound>0.08</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Verknappung von fossiler Ressourcen</ImpactCategorie-Name>
+                    <ICV-MainValue>27901.62</ICV-MainValue>
+                    <ICV-UpperBound>27901.62</ICV-UpperBound>
+                    <ICV-LowerBound>27901.62</ICV-LowerBound>
+                </IVV-Entry>
+            </ImpactValuesVector>
+        </ProductDeclaration>
+    </ProductDeclarations>
+    <ImpactValueMapGroups/>
+    <Components>
+        <Component>
+            <Component-Name>Komponent_Öl-Niedertemperaturgerät 120-400 kW (Standgerät)</Component-Name>
+            <Component-Unit>Items</Component-Unit>
+            <Component-Reference>Öl-Niedertemperaturgerät 120-400 kW (Standgerät) (Stück)(de)</Component-Reference>
+            <ComRef-MainValue>1</ComRef-MainValue>
+            <ComRef-LowerBound>1</ComRef-LowerBound>
+            <ComRef-UpperBound>1</ComRef-UpperBound>
+        </Component>
+    </Components>
+    <Compositions/>
+</XML>

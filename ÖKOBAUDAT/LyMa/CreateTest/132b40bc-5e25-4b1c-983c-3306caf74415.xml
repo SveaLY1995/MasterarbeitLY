@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<XML>
+    <Flows/>
+    <ProcessModules/>
+    <FlowValueMapGroups/>
+    <ProductSystems/>
+    <ImpactCategories>
+        <ImpactCategory>
+            <Category>Verknappung von abiotischen Ressourcen(Elemente) </Category>
+            <Indicator>
+                    kg Sb eq.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Verknappung von fossiler Ressourcen</Category>
+            <Indicator>
+                    MJ
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Versauerung</Category>
+            <Indicator>
+                    kg SO2 eq.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Eutrophierung</Category>
+            <Indicator>
+                    kg (PO4)3- eq.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Klimawandel</Category>
+            <Indicator>
+                    kg CO2 eq.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Abbau der stratosphärischen Ozonschicht</Category>
+            <Indicator>
+                    kg CFC 11 eq.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Bildung von troposphärischen Ozon</Category>
+            <Indicator>
+                    kg C2H2 eq.
+                </Indicator>
+        </ImpactCategory>
+    </ImpactCategories>
+    <CFactors/>
+    <LCIAMethods/>
+    <ProductDeclarations>
+        <ProductDeclaration>
+            <PD-Name>Glas - Bundesverband Flachglas e.V. - Mehrscheibenisolierglas 2-fach Aufbau(de)</PD-Name>
+            <PD-Unit>m2</PD-Unit>
+            <ImpactValuesVector>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Verknappung von abiotischen Ressourcen(Elemente) </ImpactCategorie-Name>
+                    <ICV-MainValue>0</ICV-MainValue>
+                    <ICV-UpperBound>0</ICV-UpperBound>
+                    <ICV-LowerBound>0</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Verknappung von fossiler Ressourcen</ImpactCategorie-Name>
+                    <ICV-MainValue>448.11</ICV-MainValue>
+                    <ICV-UpperBound>448.11</ICV-UpperBound>
+                    <ICV-LowerBound>448.11</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Versauerung</ImpactCategorie-Name>
+                    <ICV-MainValue>0.28</ICV-MainValue>
+                    <ICV-UpperBound>0.28</ICV-UpperBound>
+                    <ICV-LowerBound>0.28</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Eutrophierung</ImpactCategorie-Name>
+                    <ICV-MainValue>0.02</ICV-MainValue>
+                    <ICV-UpperBound>0.02</ICV-UpperBound>
+                    <ICV-LowerBound>0.02</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Klimawandel</ImpactCategorie-Name>
+                    <ICV-MainValue>24.48</ICV-MainValue>
+                    <ICV-UpperBound>24.48</ICV-UpperBound>
+                    <ICV-LowerBound>24.48</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Abbau der stratosphärischen Ozonschicht</ImpactCategorie-Name>
+                    <ICV-MainValue>0</ICV-MainValue>
+                    <ICV-UpperBound>0</ICV-UpperBound>
+                    <ICV-LowerBound>0</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Bildung von troposphärischen Ozon</ImpactCategorie-Name>
+                    <ICV-MainValue>0.02</ICV-MainValue>
+                    <ICV-UpperBound>0.02</ICV-UpperBound>
+                    <ICV-LowerBound>0.02</ICV-LowerBound>
+                </IVV-Entry>
+            </ImpactValuesVector>
+        </ProductDeclaration>
+    </ProductDeclarations>
+    <ImpactValueMapGroups/>
+    <Components>
+        <Component>
+            <Component-Name>Komponent_Glas - Bundesverband Flachglas e.V. - Mehrscheibenisolierglas 2-fach Aufbau</Component-Name>
+            <Component-Unit>m2</Component-Unit>
+            <Component-Reference>Glas - Bundesverband Flachglas e.V. - Mehrscheibenisolierglas 2-fach Aufbau(de)</Component-Reference>
+            <ComRef-MainValue>1.0</ComRef-MainValue>
+            <ComRef-LowerBound>1.0</ComRef-LowerBound>
+            <ComRef-UpperBound>1.0</ComRef-UpperBound>
+        </Component>
+    </Components>
+    <Compositions/>
+</XML>

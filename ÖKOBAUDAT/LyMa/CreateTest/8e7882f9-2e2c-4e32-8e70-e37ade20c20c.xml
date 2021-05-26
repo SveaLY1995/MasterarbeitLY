@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<XML>
+    <Flows/>
+    <ProcessModules/>
+    <FlowValueMapGroups/>
+    <ProductSystems/>
+    <ImpactCategories>
+        <ImpactCategory>
+            <Category>Verknappung von abiotischen Ressourcen(Elemente) </Category>
+            <Indicator>
+                    kg Sb-Äqv.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Verknappung von fossiler Ressourcen</Category>
+            <Indicator>
+                    MJ
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Versauerung</Category>
+            <Indicator>
+                    kg SO2-Äqv.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Eutrophierung</Category>
+            <Indicator>
+                    kg Phosphat-Äqv.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Klimawandel</Category>
+            <Indicator>
+                    kg CO2-Äqv.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Abbau der stratosphärischen Ozonschicht</Category>
+            <Indicator>
+                    kg CFC 11 eq.
+                </Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Bildung von troposphärischen Ozon</Category>
+            <Indicator>
+                    kg Ethen-Äqv.
+                </Indicator>
+        </ImpactCategory>
+    </ImpactCategories>
+    <CFactors/>
+    <LCIAMethods/>
+    <ProductDeclarations>
+        <ProductDeclaration>
+            <PD-Name>Tageslichtsysteme - LAMILUX Heinrich Strunz GmbH - Flachdach Fenster F100(de)</PD-Name>
+            <PD-Unit>m2</PD-Unit>
+            <ImpactValuesVector>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Verknappung von abiotischen Ressourcen(Elemente) </ImpactCategorie-Name>
+                    <ICV-MainValue>0</ICV-MainValue>
+                    <ICV-UpperBound>0</ICV-UpperBound>
+                    <ICV-LowerBound>0</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Verknappung von fossiler Ressourcen</ImpactCategorie-Name>
+                    <ICV-MainValue>1635.87</ICV-MainValue>
+                    <ICV-UpperBound>1635.87</ICV-UpperBound>
+                    <ICV-LowerBound>1635.87</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Versauerung</ImpactCategorie-Name>
+                    <ICV-MainValue>0.19</ICV-MainValue>
+                    <ICV-UpperBound>0.19</ICV-UpperBound>
+                    <ICV-LowerBound>0.19</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Eutrophierung</ImpactCategorie-Name>
+                    <ICV-MainValue>0.05</ICV-MainValue>
+                    <ICV-UpperBound>0.05</ICV-UpperBound>
+                    <ICV-LowerBound>0.05</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Klimawandel</ImpactCategorie-Name>
+                    <ICV-MainValue>126</ICV-MainValue>
+                    <ICV-UpperBound>126</ICV-UpperBound>
+                    <ICV-LowerBound>126</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Abbau der stratosphärischen Ozonschicht</ImpactCategorie-Name>
+                    <ICV-MainValue>0</ICV-MainValue>
+                    <ICV-UpperBound>0</ICV-UpperBound>
+                    <ICV-LowerBound>0</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Bildung von troposphärischen Ozon</ImpactCategorie-Name>
+                    <ICV-MainValue>0.01</ICV-MainValue>
+                    <ICV-UpperBound>0.01</ICV-UpperBound>
+                    <ICV-LowerBound>0.01</ICV-LowerBound>
+                </IVV-Entry>
+            </ImpactValuesVector>
+        </ProductDeclaration>
+    </ProductDeclarations>
+    <ImpactValueMapGroups/>
+    <Components>
+        <Component>
+            <Component-Name>Komponent_Tageslichtsysteme - LAMILUX Heinrich Strunz GmbH - Flachdach Fenster F100</Component-Name>
+            <Component-Unit>m2</Component-Unit>
+            <Component-Reference>Tageslichtsysteme - LAMILUX Heinrich Strunz GmbH - Flachdach Fenster F100(de)</Component-Reference>
+            <ComRef-MainValue>1.0</ComRef-MainValue>
+            <ComRef-LowerBound>1.0</ComRef-LowerBound>
+            <ComRef-UpperBound>1.0</ComRef-UpperBound>
+        </Component>
+    </Components>
+    <Compositions/>
+</XML>

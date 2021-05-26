@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<XML>
+    <Flows/>
+    <ProcessModules/>
+    <FlowValueMapGroups/>
+    <ProductSystems/>
+    <ImpactCategories>
+        <ImpactCategory>
+            <Category>Klimawandel</Category>
+            <Indicator>kg CO_(2)-Äq.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Abbau der stratosphärischen Ozonschicht</Category>
+            <Indicator>kg CFC11-Äq.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Versauerung</Category>
+            <Indicator>kg SO_(2)-Äq.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Eutrophierung</Category>
+            <Indicator>kg PO_(4)^(3)-Äq.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Bildung von troposphärischen Ozon</Category>
+            <Indicator>kg Ethen-Äq.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Verknappung von abiotischen Ressourcen(Elemente) </Category>
+            <Indicator>kg Sb-Äq.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Verknappung von fossiler Ressourcen</Category>
+            <Indicator>MJ</Indicator>
+        </ImpactCategory>
+    </ImpactCategories>
+    <CFactors/>
+    <LCIAMethods/>
+    <ProductDeclarations>
+        <ProductDeclaration>
+            <PD-Name>1m² Duschfläche, Badewanne oder Waschtisch (1m² Duschfläche, Badewanne oder Waschtisch)(de)</PD-Name>
+            <PD-Unit>m2</PD-Unit>
+            <ImpactValuesVector>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Klimawandel</ImpactCategorie-Name>
+                    <ICV-MainValue>36.64</ICV-MainValue>
+                    <ICV-UpperBound>36.64</ICV-UpperBound>
+                    <ICV-LowerBound>36.64</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Abbau der stratosphärischen Ozonschicht</ImpactCategorie-Name>
+                    <ICV-MainValue>0</ICV-MainValue>
+                    <ICV-UpperBound>0</ICV-UpperBound>
+                    <ICV-LowerBound>0</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Versauerung</ImpactCategorie-Name>
+                    <ICV-MainValue>0.11</ICV-MainValue>
+                    <ICV-UpperBound>0.11</ICV-UpperBound>
+                    <ICV-LowerBound>0.11</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Eutrophierung</ImpactCategorie-Name>
+                    <ICV-MainValue>0.01</ICV-MainValue>
+                    <ICV-UpperBound>0.01</ICV-UpperBound>
+                    <ICV-LowerBound>0.01</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Bildung von troposphärischen Ozon</ImpactCategorie-Name>
+                    <ICV-MainValue>0.01</ICV-MainValue>
+                    <ICV-UpperBound>0.01</ICV-UpperBound>
+                    <ICV-LowerBound>0.01</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Verknappung von abiotischen Ressourcen(Elemente) </ImpactCategorie-Name>
+                    <ICV-MainValue>0</ICV-MainValue>
+                    <ICV-UpperBound>0</ICV-UpperBound>
+                    <ICV-LowerBound>0</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Verknappung von fossiler Ressourcen</ImpactCategorie-Name>
+                    <ICV-MainValue>385.79</ICV-MainValue>
+                    <ICV-UpperBound>385.79</ICV-UpperBound>
+                    <ICV-LowerBound>385.79</ICV-LowerBound>
+                </IVV-Entry>
+            </ImpactValuesVector>
+        </ProductDeclaration>
+    </ProductDeclarations>
+    <ImpactValueMapGroups/>
+    <Components>
+        <Component>
+            <Component-Name>Komponent_Duschflächen, Badewannen und Waschtische aus KALDEWEI Stahl-Email</Component-Name>
+            <Component-Unit>m2</Component-Unit>
+            <Component-Reference>1m² Duschfläche, Badewanne oder Waschtisch (1m² Duschfläche, Badewanne oder Waschtisch)(de)</Component-Reference>
+            <ComRef-MainValue>1</ComRef-MainValue>
+            <ComRef-LowerBound>1</ComRef-LowerBound>
+            <ComRef-UpperBound>1</ComRef-UpperBound>
+        </Component>
+    </Components>
+    <Compositions/>
+</XML>

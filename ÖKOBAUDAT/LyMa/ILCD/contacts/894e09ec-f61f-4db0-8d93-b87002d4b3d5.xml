@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>894e09ec-f61f-4db0-8d93-b87002d4b3d5</common:UUID>
+                  <common:shortName xml:lang='de'>Binderholz GmbH Massivholzplattenwerk</common:shortName>
+                  <common:name xml:lang='de'>Binderholz GmbH Massivholzplattenwerk</common:name>
+                  <contactAddress xml:lang='de'>Zillertalstraße 39, 6263 Fügen, Austria</contactAddress>
+                  <telephone>+435288601</telephone>
+                  <telefax>+43528860111009</telefax>
+                  <email>christof.richter@binderholz.com</email>
+                  <WWWAddress>www.binderholz.com</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2020-08-11T17:07:02.1405615+02:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

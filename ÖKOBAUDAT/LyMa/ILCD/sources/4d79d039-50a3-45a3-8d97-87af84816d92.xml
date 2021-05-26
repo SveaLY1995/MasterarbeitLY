@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/source2html.xsl' type='text/xsl'?>
+            <sourceDataSet xmlns='http://lca.jrc.it/ILCD/Source' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Source ../../schemas/ILCD_SourceDataSet.xsd' version='1.1'>
+              <sourceInformation>
+                <dataSetInformation>
+                  <common:UUID>4d79d039-50a3-45a3-8d97-87af84816d92</common:UUID>
+                  <common:shortName xml:lang='en'>EPD document Polyvinyl chloride floorcoverings with enhanced slip resistance (Safety Flooring) according to EN 13845_10461.pdf</common:shortName>
+                  <referenceToDigitalFile uri='Polyvinyl_chloride_floorcoverings_with_enhanced_slip_resistance_Safety_Flooring_according_to_EN_13845_10461.pdf'/>
+                </dataSetInformation>
+              </sourceInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2020-12-15T14:39:26.4328886+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.03.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </sourceDataSet>
+        

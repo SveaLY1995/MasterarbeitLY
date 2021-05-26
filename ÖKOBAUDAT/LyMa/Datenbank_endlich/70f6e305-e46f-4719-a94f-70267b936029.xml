@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<XML>
+    <Flows/>
+    <ProcessModules/>
+    <FlowValueMapGroups/>
+    <ProductSystems/>
+    <ImpactCategories>
+        <ImpactCategory>
+            <Category>Klimawandel</Category>
+            <Indicator>kg CO2 Äquiv.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Abbau der stratosphärischen Ozonschicht</Category>
+            <Indicator>kg R11 Äquiv.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Versauerung</Category>
+            <Indicator>kg SO2 Äquiv.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Eutrophierung </Category>
+            <Indicator>kg Phosphat Äquiv.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Bildung von troposphärischen Ozon</Category>
+            <Indicator>kg Ethen Äquiv.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Verknappung von abiotischen Ressourcen(Elemente) </Category>
+            <Indicator>kg Sb Äquiv.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Verknappung von fossiler Ressourcen</Category>
+            <Indicator>MJ</Indicator>
+        </ImpactCategory>
+    </ImpactCategories>
+    <CFactors/>
+    <LCIAMethods/>
+    <ProductDeclarations>
+        <ProductDeclaration>
+            <PD-Name>Kalk-Gips-Innenputz  (m³)(de)</PD-Name>
+            <PD-Unit>m3</PD-Unit>
+            <ImpactValuesVector>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Klimawandel</ImpactCategorie-Name>
+                    <ICV-MainValue>215.23</ICV-MainValue>
+                    <ICV-UpperBound>215.23</ICV-UpperBound>
+                    <ICV-LowerBound>215.23</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Abbau der stratosphärischen Ozonschicht</ImpactCategorie-Name>
+                    <ICV-MainValue>0</ICV-MainValue>
+                    <ICV-UpperBound>0</ICV-UpperBound>
+                    <ICV-LowerBound>0</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Versauerung</ImpactCategorie-Name>
+                    <ICV-MainValue>0.26</ICV-MainValue>
+                    <ICV-UpperBound>0.26</ICV-UpperBound>
+                    <ICV-LowerBound>0.26</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Eutrophierung </ImpactCategorie-Name>
+                    <ICV-MainValue>0.05</ICV-MainValue>
+                    <ICV-UpperBound>0.05</ICV-UpperBound>
+                    <ICV-LowerBound>0.05</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Bildung von troposphärischen Ozon</ImpactCategorie-Name>
+                    <ICV-MainValue>-0</ICV-MainValue>
+                    <ICV-UpperBound>-0</ICV-UpperBound>
+                    <ICV-LowerBound>-0</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Verknappung von abiotischen Ressourcen(Elemente) </ImpactCategorie-Name>
+                    <ICV-MainValue>0</ICV-MainValue>
+                    <ICV-UpperBound>0</ICV-UpperBound>
+                    <ICV-LowerBound>0</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Verknappung von fossiler Ressourcen</ImpactCategorie-Name>
+                    <ICV-MainValue>1920.11</ICV-MainValue>
+                    <ICV-UpperBound>1920.11</ICV-UpperBound>
+                    <ICV-LowerBound>1920.11</ICV-LowerBound>
+                </IVV-Entry>
+            </ImpactValuesVector>
+        </ProductDeclaration>
+    </ProductDeclarations>
+    <ImpactValueMapGroups/>
+    <Components>
+        <Component>
+            <Component-Name>Komponent_Kalk-Gips-Innenputz</Component-Name>
+            <Component-Unit>m3</Component-Unit>
+            <Component-Reference>Kalk-Gips-Innenputz  (m³)(de)</Component-Reference>
+            <ComRef-MainValue>1</ComRef-MainValue>
+            <ComRef-LowerBound>1</ComRef-LowerBound>
+            <ComRef-UpperBound>1</ComRef-UpperBound>
+        </Component>
+    </Components>
+    <Compositions/>
+</XML>

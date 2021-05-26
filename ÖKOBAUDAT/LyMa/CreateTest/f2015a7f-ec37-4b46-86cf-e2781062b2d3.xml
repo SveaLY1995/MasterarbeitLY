@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<XML>
+    <Flows/>
+    <ProcessModules/>
+    <FlowValueMapGroups/>
+    <ProductSystems/>
+    <ImpactCategories>
+        <ImpactCategory>
+            <Category>Klimawandel</Category>
+            <Indicator>kg CO_(2)-Äq.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Abbau der stratosphärischen Ozonschicht</Category>
+            <Indicator>kg CFC11-Äq.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Versauerung</Category>
+            <Indicator>kg SO_(2)-Äq.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Eutrophierung</Category>
+            <Indicator>kg PO_(4)^(3)-Äq.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Bildung von troposphärischen Ozon</Category>
+            <Indicator>kg Ethen-Äq.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Verknappung von abiotischen Ressourcen(Elemente) </Category>
+            <Indicator>kg Sb-Äq.</Indicator>
+        </ImpactCategory>
+        <ImpactCategory>
+            <Category>Verknappung von fossiler Ressourcen</Category>
+            <Indicator>MJ</Indicator>
+        </ImpactCategory>
+    </ImpactCategories>
+    <CFactors/>
+    <LCIAMethods/>
+    <ProductDeclarations>
+        <ProductDeclaration>
+            <PD-Name>Leichtbetonmauerstein (Vollstein schwer) (Leichtbetonmauerstein (Vollstein schwer))(de)</PD-Name>
+            <PD-Unit>m3</PD-Unit>
+            <ImpactValuesVector>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Klimawandel</ImpactCategorie-Name>
+                    <ICV-MainValue>118</ICV-MainValue>
+                    <ICV-UpperBound>118</ICV-UpperBound>
+                    <ICV-LowerBound>118</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Abbau der stratosphärischen Ozonschicht</ImpactCategorie-Name>
+                    <ICV-MainValue>0</ICV-MainValue>
+                    <ICV-UpperBound>0</ICV-UpperBound>
+                    <ICV-LowerBound>0</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Versauerung</ImpactCategorie-Name>
+                    <ICV-MainValue>0.2</ICV-MainValue>
+                    <ICV-UpperBound>0.2</ICV-UpperBound>
+                    <ICV-LowerBound>0.2</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Eutrophierung</ImpactCategorie-Name>
+                    <ICV-MainValue>0.03</ICV-MainValue>
+                    <ICV-UpperBound>0.03</ICV-UpperBound>
+                    <ICV-LowerBound>0.03</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Bildung von troposphärischen Ozon</ImpactCategorie-Name>
+                    <ICV-MainValue>0.02</ICV-MainValue>
+                    <ICV-UpperBound>0.02</ICV-UpperBound>
+                    <ICV-LowerBound>0.02</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Verknappung von abiotischen Ressourcen(Elemente) </ImpactCategorie-Name>
+                    <ICV-MainValue>0</ICV-MainValue>
+                    <ICV-UpperBound>0</ICV-UpperBound>
+                    <ICV-LowerBound>0</ICV-LowerBound>
+                </IVV-Entry>
+                <IVV-Entry>
+                    <ImpactCategorie-Name>Verknappung von fossiler Ressourcen</ImpactCategorie-Name>
+                    <ICV-MainValue>512</ICV-MainValue>
+                    <ICV-UpperBound>512</ICV-UpperBound>
+                    <ICV-LowerBound>512</ICV-LowerBound>
+                </IVV-Entry>
+            </ImpactValuesVector>
+        </ProductDeclaration>
+    </ProductDeclarations>
+    <ImpactValueMapGroups/>
+    <Components>
+        <Component>
+            <Component-Name>Komponent_Mauersteine aus Leichtbeton aus natürlichen Zuschlägen - Vollstein schwer -</Component-Name>
+            <Component-Unit>m3</Component-Unit>
+            <Component-Reference>Leichtbetonmauerstein (Vollstein schwer) (Leichtbetonmauerstein (Vollstein schwer))(de)</Component-Reference>
+            <ComRef-MainValue>1</ComRef-MainValue>
+            <ComRef-LowerBound>1</ComRef-LowerBound>
+            <ComRef-UpperBound>1</ComRef-UpperBound>
+        </Component>
+    </Components>
+    <Compositions/>
+</XML>

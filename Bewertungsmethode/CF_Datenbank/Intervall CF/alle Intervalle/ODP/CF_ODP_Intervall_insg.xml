@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+  <Flows>
+    <Flow>
+      <FlowName>1,1,1-trichloroethane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>CFC-11</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>CFC-113</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>CFC-114</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>CFC-115</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>CFC-12</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>HALON (HALON 2401)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>HBFC-1201 (CHBrF2)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>HALON-1202</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>HALON-1211</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>HALON-1301</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>HBFC-2311</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>HBFC-2401 (HALON)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>HALON-2402</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>HCFC-123</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>HCFC-124</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>HCFC-141b</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>HCFC-142b</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>HCFC-22</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>HCFC-225ca</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>HCFC-225cb</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Hydrocarbons (excl. methane)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Methyl Chloride</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>methylbromide</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Tetrachloromethane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Volatile Organic Compounds non-methane- (non methane VOC)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+  </Flows>
+  <ProcessModules/>
+  <FlowValueMapGroups/>
+  <ProductSystems/>
+  <ImpactCategories>
+    <ImpactCategory>
+      <Category>Abbau der stratosphärischen Ozonschicht</Category>
+      <Indicator>CFC-11 äquivalent</Indicator>
+    </ImpactCategory>
+  </ImpactCategories>
+  <CFactors>
+    <CFactor>
+      <CFName>CF_ODP_insg_1,1,1-trichloroethane</CFName>
+      <CFFlow>1,1,1-trichloroethane</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>0.12</CFMainValue>
+      <CFLowerBound>0.12</CFLowerBound>
+      <CFUpperBound>0.12</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_CFC-11</CFName>
+      <CFFlow>CFC-11</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>1.0</CFMainValue>
+      <CFLowerBound>1.0</CFLowerBound>
+      <CFUpperBound>1.0</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_CFC-113</CFName>
+      <CFFlow>CFC-113</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>1.0</CFMainValue>
+      <CFLowerBound>1.0</CFLowerBound>
+      <CFUpperBound>1.0</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_CFC-114</CFName>
+      <CFFlow>CFC-114</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>0.94</CFMainValue>
+      <CFLowerBound>0.94</CFLowerBound>
+      <CFUpperBound>0.94</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_CFC-115</CFName>
+      <CFFlow>CFC-115</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>0.44</CFMainValue>
+      <CFLowerBound>0.44</CFLowerBound>
+      <CFUpperBound>0.44</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_CFC-12</CFName>
+      <CFFlow>CFC-12</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>1.0</CFMainValue>
+      <CFLowerBound>1.0</CFLowerBound>
+      <CFUpperBound>1.0</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_HALON (HALON 2401)</CFName>
+      <CFFlow>HALON (HALON 2401)</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>0.25</CFMainValue>
+      <CFLowerBound>0.25</CFLowerBound>
+      <CFUpperBound>0.25</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_HBFC-1201 (CHBrF2)</CFName>
+      <CFFlow>HBFC-1201 (CHBrF2)</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>1.4</CFMainValue>
+      <CFLowerBound>1.4</CFLowerBound>
+      <CFUpperBound>1.4</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_HALON-1202</CFName>
+      <CFFlow>HALON-1202</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>1.3</CFMainValue>
+      <CFLowerBound>1.3</CFLowerBound>
+      <CFUpperBound>1.3</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_HALON-1211</CFName>
+      <CFFlow>HALON-1211</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>6.0</CFMainValue>
+      <CFLowerBound>6.0</CFLowerBound>
+      <CFUpperBound>6.0</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_HALON-1301</CFName>
+      <CFFlow>HALON-1301</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>12.0</CFMainValue>
+      <CFLowerBound>12.0</CFLowerBound>
+      <CFUpperBound>12.0</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_HBFC-2311</CFName>
+      <CFFlow>HBFC-2311</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>0.14</CFMainValue>
+      <CFLowerBound>0.14</CFLowerBound>
+      <CFUpperBound>0.14</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_HBFC-2401 (HALON)</CFName>
+      <CFFlow>HBFC-2401 (HALON)</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>0.25</CFMainValue>
+      <CFLowerBound>0.25</CFLowerBound>
+      <CFUpperBound>0.25</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_HALON-2402</CFName>
+      <CFFlow>HALON-2402</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>6.0</CFMainValue>
+      <CFLowerBound>6.0</CFLowerBound>
+      <CFUpperBound>6.0</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_HCFC-123</CFName>
+      <CFFlow>HCFC-123</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>0.02</CFMainValue>
+      <CFLowerBound>0.02</CFLowerBound>
+      <CFUpperBound>0.02</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_HCFC-124</CFName>
+      <CFFlow>HCFC-124</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>0.02</CFMainValue>
+      <CFLowerBound>0.02</CFLowerBound>
+      <CFUpperBound>0.02</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_HCFC-141b</CFName>
+      <CFFlow>HCFC-141b</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>0.12</CFMainValue>
+      <CFLowerBound>0.12</CFLowerBound>
+      <CFUpperBound>0.12</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_HCFC-142b</CFName>
+      <CFFlow>HCFC-142b</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>0.07</CFMainValue>
+      <CFLowerBound>0.07</CFLowerBound>
+      <CFUpperBound>0.07</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_HCFC-22</CFName>
+      <CFFlow>HCFC-22</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>0.05</CFMainValue>
+      <CFLowerBound>0.05</CFLowerBound>
+      <CFUpperBound>0.05</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_HCFC-225ca</CFName>
+      <CFFlow>HCFC-225ca</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>0.02</CFMainValue>
+      <CFLowerBound>0.02</CFLowerBound>
+      <CFUpperBound>0.02</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_HCFC-225cb</CFName>
+      <CFFlow>HCFC-225cb</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>0.03</CFMainValue>
+      <CFLowerBound>0.03</CFLowerBound>
+      <CFUpperBound>0.03</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_Hydrocarbons (excl. methane)</CFName>
+      <CFFlow>Hydrocarbons (excl. methane)</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>2.3E-5</CFMainValue>
+      <CFLowerBound>2.3E-5</CFLowerBound>
+      <CFUpperBound>2.3E-5</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_Methyl Chloride</CFName>
+      <CFFlow>Methyl Chloride</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>0.02</CFMainValue>
+      <CFLowerBound>0.02</CFLowerBound>
+      <CFUpperBound>0.02</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_methylbromide</CFName>
+      <CFFlow>methylbromide</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>0.38</CFMainValue>
+      <CFLowerBound>0.38</CFLowerBound>
+      <CFUpperBound>0.38</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_Tetrachloromethane</CFName>
+      <CFFlow>Tetrachloromethane</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>0.73</CFMainValue>
+      <CFLowerBound>0.73</CFLowerBound>
+      <CFUpperBound>0.73</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ODP_insg_Volatile Organic Compounds non-methane- (non methane VOC)</CFName>
+      <CFFlow>Volatile Organic Compounds non-methane- (non methane VOC)</CFFlow>
+      <CFCategory>Abbau der stratosphärischen Ozonschicht</CFCategory>
+      <CFMainValue>2.3E-5</CFMainValue>
+      <CFLowerBound>2.3E-5</CFLowerBound>
+      <CFUpperBound>2.3E-5</CFUpperBound>
+    </CFactor>
+  </CFactors>
+  <LCIAMethods>
+    <LCIAMethod>
+      <LCIA-Name>Bewertungsmethod für ODP</LCIA-Name>
+      <LCIA-Categories>
+        <LCIA-Category>Abbau der stratosphärischen Ozonschicht</LCIA-Category>
+      </LCIA-Categories>
+      <LCIA-Factors>
+        <LCIA-Factor>CF_ODP_insg_1,1,1-trichloroethane</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_CFC-11</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_CFC-113</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_CFC-114</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_CFC-115</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_CFC-12</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_HALON (HALON 2401)</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_HBFC-1201 (CHBrF2)</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_HALON-1202</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_HALON-1211</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_HALON-1301</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_HBFC-2311</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_HBFC-2401 (HALON)</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_HALON-2402</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_HCFC-123</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_HCFC-124</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_HCFC-141b</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_HCFC-142b</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_HCFC-22</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_HCFC-225ca</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_HCFC-225cb</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_Hydrocarbons (excl. methane)</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_Methyl Chloride</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_methylbromide</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_Tetrachloromethane</LCIA-Factor>
+        <LCIA-Factor>CF_ODP_insg_Volatile Organic Compounds non-methane- (non methane VOC)</LCIA-Factor>
+      </LCIA-Factors>
+    </LCIAMethod>
+  </LCIAMethods>
+  <ProductDeclarations/>
+  <ImpactValueMapGroupss/>
+  <Components/>
+  <Compositions/>
+</XML>

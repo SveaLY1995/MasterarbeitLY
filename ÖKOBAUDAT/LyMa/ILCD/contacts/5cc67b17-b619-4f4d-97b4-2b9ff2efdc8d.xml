@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>5cc67b17-b619-4f4d-97b4-2b9ff2efdc8d</common:UUID>
+                  <common:shortName xml:lang='de'>Profil-Vertrieb GmbH/PROTEKTORWERK Florenz Maisch GmbH &amp; Co. KG</common:shortName>
+                  <common:name xml:lang='de'>Profil-Vertrieb GmbH/PROTEKTORWERK Florenz Maisch GmbH &amp; Co. KG</common:name>
+                  <contactAddress xml:lang='de'>Viktoriastraße 58, 76554 Gaggenau, Germany</contactAddress>
+                  <telephone>+49 (0)7225 977 0</telephone>
+                  <telefax>+49 (0)7225 977 111</telefax>
+                  <email>info@protektor.com</email>
+                  <WWWAddress>www.protektor.com</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2018-02-06T12:36:03.7243925+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.02.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

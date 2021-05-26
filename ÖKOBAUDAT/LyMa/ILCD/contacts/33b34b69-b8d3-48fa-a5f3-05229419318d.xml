@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>33b34b69-b8d3-48fa-a5f3-05229419318d</common:UUID>
+                  <common:shortName xml:lang='de'>Knauf Bulgaria EOOD</common:shortName>
+                  <common:name xml:lang='de'>Knauf Bulgaria EOOD</common:name>
+                  <contactAddress xml:lang='de'>Angelov vrah 27, 1618 Sofia, Bulgaria</contactAddress>
+                  <telephone>0700 300 03</telephone>
+                  <telefax>(+359) 2 850 2194</telefax>
+                  <email>info@knauf.bg</email>
+                  <WWWAddress>http://knauf.bg</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2018-02-06T12:42:33.2836740+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.02.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

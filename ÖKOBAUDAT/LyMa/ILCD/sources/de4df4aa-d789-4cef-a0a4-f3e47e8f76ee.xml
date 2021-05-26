@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<s:sourceDataSet xmlns:m="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:s="http://lca.jrc.it/ILCD/Source" xmlns:c="http://lca.jrc.it/ILCD/Contact" xmlns:f="http://lca.jrc.it/ILCD/Flow" xmlns="http://lca.jrc.it/ILCD/Process" xmlns:fp="http://lca.jrc.it/ILCD/FlowProperty" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+    <s:sourceInformation>
+        <s:dataSetInformation>
+            <common:UUID>de4df4aa-d789-4cef-a0a4-f3e47e8f76ee</common:UUID>
+            <common:shortName xml:lang="de">EPD Fenster und Hebeschiebeelemente aus Stahl, rostfreiem Edelstahl oder wetterfestem Baustahl</common:shortName>
+            <common:shortName xml:lang="en">EPD Windows and lift-and-slide units made of steel, stainless steel or weather resistant structural steel</common:shortName>
+            <s:classificationInformation>
+                <common:classification>
+                    <common:class level="0" classId="8ee3821d-1653-4bfa-8bcf-3fe27f05e8f1">EPDs</common:class>
+                </common:classification>
+            </s:classificationInformation>
+            <s:referenceToDigitalFile uri="../external_docs/2020-12-16_VFF_M-EPD_Stahlfenster.pdf"/>
+            <s:referenceToDigitalFile uri="../external_docs/2020-12-16_VFF_M-EPD_Stahlfenster-efin.pdf"/>
+            <s:referenceToContact type="contact data set" refObjectId="4b4a8f5a-c121-446c-a178-1d010c03915a" version="00.00.001">
+                <common:shortDescription xml:lang="de">Verband Fenster + Fassade</common:shortDescription>
+            </s:referenceToContact>
+        </s:dataSetInformation>
+    </s:sourceInformation>
+    <s:administrativeInformation>
+        <s:dataEntryBy>
+            <common:timeStamp>2020-12-17T09:17:00.700+01:00</common:timeStamp>
+        </s:dataEntryBy>
+        <s:publicationAndOwnership>
+            <common:dataSetVersion>00.00.004</common:dataSetVersion>
+        </s:publicationAndOwnership>
+    </s:administrativeInformation>
+</s:sourceDataSet>

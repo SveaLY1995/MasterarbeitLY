@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<s:sourceDataSet xmlns:m="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:s="http://lca.jrc.it/ILCD/Source" xmlns:c="http://lca.jrc.it/ILCD/Contact" xmlns:f="http://lca.jrc.it/ILCD/Flow" xmlns="http://lca.jrc.it/ILCD/Process" xmlns:fp="http://lca.jrc.it/ILCD/FlowProperty" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+    <s:sourceInformation>
+        <s:dataSetInformation>
+            <common:UUID>d47f3ee5-3533-4733-a87a-c4e2d5b5fa01</common:UUID>
+            <common:shortName xml:lang="de">Möller et al. (2020) Mehr als nur Dämmung - Zusatznutzen von Dämmstoffen aus nachwachsenden Rohstoffen - Arbeitsbereich Nachhaltigkeitsbetrachtung, Hamburg, Thünen-Institut für Holzforschung, Abschlussbericht</common:shortName>
+            <s:classificationInformation>
+                <common:classification name="ILCD">
+                    <common:class level="0" classId="5">Publications and communications</common:class>
+                </common:classification>
+            </s:classificationInformation>
+        </s:dataSetInformation>
+    </s:sourceInformation>
+    <s:administrativeInformation>
+        <s:dataEntryBy>
+            <common:timeStamp>2020-11-05T16:27:44.387+01:00</common:timeStamp>
+        </s:dataEntryBy>
+        <s:publicationAndOwnership>
+            <common:dataSetVersion>00.00.002</common:dataSetVersion>
+        </s:publicationAndOwnership>
+    </s:administrativeInformation>
+</s:sourceDataSet>

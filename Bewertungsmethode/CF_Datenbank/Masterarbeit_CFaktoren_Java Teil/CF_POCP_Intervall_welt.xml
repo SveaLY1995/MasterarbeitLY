@@ -1,0 +1,1850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+  <Flows>
+    <Flow>
+      <FlowName>1,1,1-trichloroethane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>1,2,3-Trimethyl Benzene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>1,2,4-trimethylbenzene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>1,3,5-trimethylbenzene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>1,3-Butadiene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>1-Butanol</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>1-Butene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>1-Butoxypropanol</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>1-Butyl Acetate</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>1-Hexene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>1-Methoxy-2-propanol</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>1-Pentene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>1-Propanol</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>1-Propyl Benzene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>1-Propylacetate</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>1-Undecane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>2,2-Dimethylbutane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>2.3- Dimethylbutane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>2-butanone</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>2-Butoxy-Ethanol</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>2-Ethoxy-Ethanol</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>2-Methoxy-Ethanol</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>2-Methyl-1-Butene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>2-Methyl-2-Butene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>2-Methylbutan-1-ol</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>2-Methylbutan-2-ol</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>2-Methylhexane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>2-Methylpentane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>3,5-Diethyltoluene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>3,5-Dimethylethylbenzene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>3-Methyl-1-Butene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>3-Methylbutan-1-ol</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>3-Methylbutan-2-ol</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>3-Methylhexane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>3-Methylpentane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>3-Pentanol</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Acetaldehyde</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Acetic acid</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Acetone</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Acetylene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Benzaldehyde</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Benzene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Butane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Butyraldehyde</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Carbon Monoxide</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>cis-2-Butene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>cis-2-Hexene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>cis-2-Pentene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>cis-Dichloroethene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Cyclohexane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Cyclohexanol</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Cyclohexanone</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Decane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Diacetone alcohol</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Dichloromethane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Diethyl Ether</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Diethylketone</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Diisopropylether</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Dimethoxy methane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Dimethyl carbonate</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Dimethyl Ether</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Dodecane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Ethane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Ethanol</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Ethyl Acetate</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Ethyl- trans-Butyl Ether</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Ethylbenzene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Ethylene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Ethylene Glycol</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Formaldehyde</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Formic acid</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Heptane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Hexan-2-one</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Hexan-3-one</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Hexane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Hydrocarbons (excl. methane)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>isobutane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>isobutanol</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>isobutene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>isobutyraldehyde</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>isopentane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>isoprene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>isopropanol</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>isopropyl acetate</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>isopropyl benzene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>meta-Ethyltoluene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>meta-Xylene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Methane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Methanol</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Methyl Acetate</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Methyl Chloride</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Methyl Formate</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Methyl Isobutyl Ketone</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Methyl propyl Ketone</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Methyl tert-Butyl Ether</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Methyl tert-butylketone</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Methyl-Isopropylketone</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Neopentane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>nitrogen dioxide</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>nitrogen mono oxide</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>nitrogen oxides (as NO2)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Nonane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Octane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>ortho-Ethyltoluene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>ortho-Xylene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>para-Ethyltoluene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>para-Xylene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Pentanaldehyde</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Pentane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Propane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Propanoic acid</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Propionaldehyde</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Propylene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Propylene Glycol</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>sec-Butanol</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>sec-Butyl Acetate</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>styrene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>sulphur dioxide</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>tertiary-Butanol</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>tertiary-Butyl Acetate</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>tetrachloroethylene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Toluene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>trans-2-Butene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>trans-2-Hexene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>trans-2-Pentene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>trans-dichloroethene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Trichloroethylene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Trichloromethane</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Volatile Organic Compounds non-methane- (non methane VOC)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>xylene</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+  </Flows>
+  <ProcessModules/>
+  <FlowValueMapGroups/>
+  <ProductSystems/>
+  <ImpactCategories>
+    <ImpactCategory>
+      <Category>Bildung von troposphärischen Ozon</Category>
+      <Indicator>ethylene äquivalent</Indicator>
+    </ImpactCategory>
+  </ImpactCategories>
+  <CFactors>
+    <CFactor>
+      <CFName>CF_POCP_welt_1,1,1-trichloroethane</CFName>
+      <CFFlow>1,1,1-trichloroethane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.009</CFMainValue>
+      <CFLowerBound>0.009</CFLowerBound>
+      <CFUpperBound>0.009</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_1,2,3-Trimethyl Benzene</CFName>
+      <CFFlow>1,2,3-Trimethyl Benzene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>1.27</CFMainValue>
+      <CFLowerBound>1.27</CFLowerBound>
+      <CFUpperBound>1.27</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_1,2,4-trimethylbenzene</CFName>
+      <CFFlow>1,2,4-trimethylbenzene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>1.28</CFMainValue>
+      <CFLowerBound>1.28</CFLowerBound>
+      <CFUpperBound>1.28</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_1,3,5-trimethylbenzene</CFName>
+      <CFFlow>1,3,5-trimethylbenzene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>1.38</CFMainValue>
+      <CFLowerBound>1.38</CFLowerBound>
+      <CFUpperBound>1.38</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_1,3-Butadiene</CFName>
+      <CFFlow>1,3-Butadiene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.85</CFMainValue>
+      <CFLowerBound>0.85</CFLowerBound>
+      <CFUpperBound>0.85</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_1-Butanol</CFName>
+      <CFFlow>1-Butanol</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.62</CFMainValue>
+      <CFLowerBound>0.62</CFLowerBound>
+      <CFUpperBound>0.62</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_1-Butene</CFName>
+      <CFFlow>1-Butene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>1.08</CFMainValue>
+      <CFLowerBound>1.08</CFLowerBound>
+      <CFUpperBound>1.08</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_1-Butoxypropanol</CFName>
+      <CFFlow>1-Butoxypropanol</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.463</CFMainValue>
+      <CFLowerBound>0.463</CFLowerBound>
+      <CFUpperBound>0.463</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_1-Butyl Acetate</CFName>
+      <CFFlow>1-Butyl Acetate</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.269</CFMainValue>
+      <CFLowerBound>0.269</CFLowerBound>
+      <CFUpperBound>0.269</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_1-Hexene</CFName>
+      <CFFlow>1-Hexene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.874</CFMainValue>
+      <CFLowerBound>0.874</CFLowerBound>
+      <CFUpperBound>0.874</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_1-Methoxy-2-propanol</CFName>
+      <CFFlow>1-Methoxy-2-propanol</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.355</CFMainValue>
+      <CFLowerBound>0.355</CFLowerBound>
+      <CFUpperBound>0.355</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_1-Pentene</CFName>
+      <CFFlow>1-Pentene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.977</CFMainValue>
+      <CFLowerBound>0.977</CFLowerBound>
+      <CFUpperBound>0.977</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_1-Propanol</CFName>
+      <CFFlow>1-Propanol</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.561</CFMainValue>
+      <CFLowerBound>0.561</CFLowerBound>
+      <CFUpperBound>0.561</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_1-Propyl Benzene</CFName>
+      <CFFlow>1-Propyl Benzene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.636</CFMainValue>
+      <CFLowerBound>0.636</CFLowerBound>
+      <CFUpperBound>0.636</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_1-Propylacetate</CFName>
+      <CFFlow>1-Propylacetate</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.282</CFMainValue>
+      <CFLowerBound>0.282</CFLowerBound>
+      <CFUpperBound>0.282</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_1-Undecane</CFName>
+      <CFFlow>1-Undecane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.384</CFMainValue>
+      <CFLowerBound>0.384</CFLowerBound>
+      <CFUpperBound>0.384</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_2,2-Dimethylbutane</CFName>
+      <CFFlow>2,2-Dimethylbutane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.241</CFMainValue>
+      <CFLowerBound>0.241</CFLowerBound>
+      <CFUpperBound>0.241</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_2.3- Dimethylbutane</CFName>
+      <CFFlow>2.3- Dimethylbutane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.541</CFMainValue>
+      <CFLowerBound>0.541</CFLowerBound>
+      <CFUpperBound>0.541</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_2-butanone</CFName>
+      <CFFlow>2-butanone</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.373</CFMainValue>
+      <CFLowerBound>0.373</CFLowerBound>
+      <CFUpperBound>0.373</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_2-Butoxy-Ethanol</CFName>
+      <CFFlow>2-Butoxy-Ethanol</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.483</CFMainValue>
+      <CFLowerBound>0.483</CFLowerBound>
+      <CFUpperBound>0.483</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_2-Ethoxy-Ethanol</CFName>
+      <CFFlow>2-Ethoxy-Ethanol</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.386</CFMainValue>
+      <CFLowerBound>0.386</CFLowerBound>
+      <CFUpperBound>0.386</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_2-Methoxy-Ethanol</CFName>
+      <CFFlow>2-Methoxy-Ethanol</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.307</CFMainValue>
+      <CFLowerBound>0.307</CFLowerBound>
+      <CFUpperBound>0.307</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_2-Methyl-1-Butene</CFName>
+      <CFFlow>2-Methyl-1-Butene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.771</CFMainValue>
+      <CFLowerBound>0.771</CFLowerBound>
+      <CFUpperBound>0.771</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_2-Methyl-2-Butene</CFName>
+      <CFFlow>2-Methyl-2-Butene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.842</CFMainValue>
+      <CFLowerBound>0.842</CFLowerBound>
+      <CFUpperBound>0.842</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_2-Methylbutan-1-ol</CFName>
+      <CFFlow>2-Methylbutan-1-ol</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.489</CFMainValue>
+      <CFLowerBound>0.489</CFLowerBound>
+      <CFUpperBound>0.489</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_2-Methylbutan-2-ol</CFName>
+      <CFFlow>2-Methylbutan-2-ol</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.228</CFMainValue>
+      <CFLowerBound>0.228</CFLowerBound>
+      <CFUpperBound>0.228</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_2-Methylhexane</CFName>
+      <CFFlow>2-Methylhexane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.411</CFMainValue>
+      <CFLowerBound>0.411</CFLowerBound>
+      <CFUpperBound>0.411</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_2-Methylpentane</CFName>
+      <CFFlow>2-Methylpentane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.42</CFMainValue>
+      <CFLowerBound>0.42</CFLowerBound>
+      <CFUpperBound>0.42</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_3,5-Diethyltoluene</CFName>
+      <CFFlow>3,5-Diethyltoluene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>1.29</CFMainValue>
+      <CFLowerBound>1.29</CFLowerBound>
+      <CFUpperBound>1.29</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_3,5-Dimethylethylbenzene</CFName>
+      <CFFlow>3,5-Dimethylethylbenzene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>1.32</CFMainValue>
+      <CFLowerBound>1.32</CFLowerBound>
+      <CFUpperBound>1.32</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_3-Methyl-1-Butene</CFName>
+      <CFFlow>3-Methyl-1-Butene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.671</CFMainValue>
+      <CFLowerBound>0.671</CFLowerBound>
+      <CFUpperBound>0.671</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_3-Methylbutan-1-ol</CFName>
+      <CFFlow>3-Methylbutan-1-ol</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.433</CFMainValue>
+      <CFLowerBound>0.433</CFLowerBound>
+      <CFUpperBound>0.433</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_3-Methylbutan-2-ol</CFName>
+      <CFFlow>3-Methylbutan-2-ol</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.406</CFMainValue>
+      <CFLowerBound>0.406</CFLowerBound>
+      <CFUpperBound>0.406</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_3-Methylhexane</CFName>
+      <CFFlow>3-Methylhexane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.364</CFMainValue>
+      <CFLowerBound>0.364</CFLowerBound>
+      <CFUpperBound>0.364</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_3-Methylpentane</CFName>
+      <CFFlow>3-Methylpentane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.479</CFMainValue>
+      <CFLowerBound>0.479</CFLowerBound>
+      <CFUpperBound>0.479</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_3-Pentanol</CFName>
+      <CFFlow>3-Pentanol</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.595</CFMainValue>
+      <CFLowerBound>0.595</CFLowerBound>
+      <CFUpperBound>0.595</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Acetaldehyde</CFName>
+      <CFFlow>Acetaldehyde</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.641</CFMainValue>
+      <CFLowerBound>0.641</CFLowerBound>
+      <CFUpperBound>0.641</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Acetic acid</CFName>
+      <CFFlow>Acetic acid</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.097</CFMainValue>
+      <CFLowerBound>0.097</CFLowerBound>
+      <CFUpperBound>0.097</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Acetone</CFName>
+      <CFFlow>Acetone</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.094</CFMainValue>
+      <CFLowerBound>0.094</CFLowerBound>
+      <CFUpperBound>0.094</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Acetylene</CFName>
+      <CFFlow>Acetylene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.085</CFMainValue>
+      <CFLowerBound>0.085</CFLowerBound>
+      <CFUpperBound>0.085</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Benzaldehyde</CFName>
+      <CFFlow>Benzaldehyde</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>-0.092</CFMainValue>
+      <CFLowerBound>-0.092</CFLowerBound>
+      <CFUpperBound>-0.092</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Benzene</CFName>
+      <CFFlow>Benzene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.22</CFMainValue>
+      <CFLowerBound>0.22</CFLowerBound>
+      <CFUpperBound>0.22</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Butane</CFName>
+      <CFFlow>Butane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.352</CFMainValue>
+      <CFLowerBound>0.352</CFLowerBound>
+      <CFUpperBound>0.352</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Butyraldehyde</CFName>
+      <CFFlow>Butyraldehyde</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.795</CFMainValue>
+      <CFLowerBound>0.795</CFLowerBound>
+      <CFUpperBound>0.795</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Carbon Monoxide</CFName>
+      <CFFlow>Carbon Monoxide</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.027</CFMainValue>
+      <CFLowerBound>0.027</CFLowerBound>
+      <CFUpperBound>0.027</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_cis-2-Butene</CFName>
+      <CFFlow>cis-2-Butene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>1.15</CFMainValue>
+      <CFLowerBound>1.15</CFLowerBound>
+      <CFUpperBound>1.15</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_cis-2-Hexene</CFName>
+      <CFFlow>cis-2-Hexene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>1.07</CFMainValue>
+      <CFLowerBound>1.07</CFLowerBound>
+      <CFUpperBound>1.07</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_cis-2-Pentene</CFName>
+      <CFFlow>cis-2-Pentene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>1.12</CFMainValue>
+      <CFLowerBound>1.12</CFLowerBound>
+      <CFUpperBound>1.12</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_cis-Dichloroethene</CFName>
+      <CFFlow>cis-Dichloroethene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.447</CFMainValue>
+      <CFLowerBound>0.447</CFLowerBound>
+      <CFUpperBound>0.447</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Cyclohexane</CFName>
+      <CFFlow>Cyclohexane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.29</CFMainValue>
+      <CFLowerBound>0.29</CFLowerBound>
+      <CFUpperBound>0.29</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Cyclohexanol</CFName>
+      <CFFlow>Cyclohexanol</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.518</CFMainValue>
+      <CFLowerBound>0.518</CFLowerBound>
+      <CFUpperBound>0.518</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Cyclohexanone</CFName>
+      <CFFlow>Cyclohexanone</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.299</CFMainValue>
+      <CFLowerBound>0.299</CFLowerBound>
+      <CFUpperBound>0.299</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Decane</CFName>
+      <CFFlow>Decane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.384</CFMainValue>
+      <CFLowerBound>0.384</CFLowerBound>
+      <CFUpperBound>0.384</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Diacetone alcohol</CFName>
+      <CFFlow>Diacetone alcohol</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.307</CFMainValue>
+      <CFLowerBound>0.307</CFLowerBound>
+      <CFUpperBound>0.307</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Dichloromethane</CFName>
+      <CFFlow>Dichloromethane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.068</CFMainValue>
+      <CFLowerBound>0.068</CFLowerBound>
+      <CFUpperBound>0.068</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Diethyl Ether</CFName>
+      <CFFlow>Diethyl Ether</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.445</CFMainValue>
+      <CFLowerBound>0.445</CFLowerBound>
+      <CFUpperBound>0.445</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Diethylketone</CFName>
+      <CFFlow>Diethylketone</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.414</CFMainValue>
+      <CFLowerBound>0.414</CFLowerBound>
+      <CFUpperBound>0.414</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Diisopropylether</CFName>
+      <CFFlow>Diisopropylether</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.398</CFMainValue>
+      <CFLowerBound>0.398</CFLowerBound>
+      <CFUpperBound>0.398</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Dimethoxy methane</CFName>
+      <CFFlow>Dimethoxy methane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.16</CFMainValue>
+      <CFLowerBound>0.16</CFLowerBound>
+      <CFUpperBound>0.16</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Dimethyl carbonate</CFName>
+      <CFFlow>Dimethyl carbonate</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.025</CFMainValue>
+      <CFLowerBound>0.025</CFLowerBound>
+      <CFUpperBound>0.025</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Dimethyl Ether</CFName>
+      <CFFlow>Dimethyl Ether</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.189</CFMainValue>
+      <CFLowerBound>0.189</CFLowerBound>
+      <CFUpperBound>0.189</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Dodecane</CFName>
+      <CFFlow>Dodecane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.357</CFMainValue>
+      <CFLowerBound>0.357</CFLowerBound>
+      <CFUpperBound>0.357</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Ethane</CFName>
+      <CFFlow>Ethane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.123</CFMainValue>
+      <CFLowerBound>0.123</CFLowerBound>
+      <CFUpperBound>0.123</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Ethanol</CFName>
+      <CFFlow>Ethanol</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.399</CFMainValue>
+      <CFLowerBound>0.399</CFLowerBound>
+      <CFUpperBound>0.399</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Ethyl Acetate</CFName>
+      <CFFlow>Ethyl Acetate</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.209</CFMainValue>
+      <CFLowerBound>0.209</CFLowerBound>
+      <CFUpperBound>0.209</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Ethyl- trans-Butyl Ether</CFName>
+      <CFFlow>Ethyl- trans-Butyl Ether</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.244</CFMainValue>
+      <CFLowerBound>0.244</CFLowerBound>
+      <CFUpperBound>0.244</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Ethylbenzene</CFName>
+      <CFFlow>Ethylbenzene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.73</CFMainValue>
+      <CFLowerBound>0.73</CFLowerBound>
+      <CFUpperBound>0.73</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Ethylene</CFName>
+      <CFFlow>Ethylene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>1.0</CFMainValue>
+      <CFLowerBound>1.0</CFLowerBound>
+      <CFUpperBound>1.0</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Ethylene Glycol</CFName>
+      <CFFlow>Ethylene Glycol</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.373</CFMainValue>
+      <CFLowerBound>0.373</CFLowerBound>
+      <CFUpperBound>0.373</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Formaldehyde</CFName>
+      <CFFlow>Formaldehyde</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.52</CFMainValue>
+      <CFLowerBound>0.52</CFLowerBound>
+      <CFUpperBound>0.52</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Formic acid</CFName>
+      <CFFlow>Formic acid</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.032</CFMainValue>
+      <CFLowerBound>0.032</CFLowerBound>
+      <CFUpperBound>0.032</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Heptane</CFName>
+      <CFFlow>Heptane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.494</CFMainValue>
+      <CFLowerBound>0.494</CFLowerBound>
+      <CFUpperBound>0.494</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Hexan-2-one</CFName>
+      <CFFlow>Hexan-2-one</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.572</CFMainValue>
+      <CFLowerBound>0.572</CFLowerBound>
+      <CFUpperBound>0.572</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Hexan-3-one</CFName>
+      <CFFlow>Hexan-3-one</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.599</CFMainValue>
+      <CFLowerBound>0.599</CFLowerBound>
+      <CFUpperBound>0.599</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Hexane</CFName>
+      <CFFlow>Hexane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.482</CFMainValue>
+      <CFLowerBound>0.482</CFLowerBound>
+      <CFUpperBound>0.482</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Hydrocarbons (excl. methane)</CFName>
+      <CFFlow>Hydrocarbons (excl. methane)</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.15</CFMainValue>
+      <CFLowerBound>0.15</CFLowerBound>
+      <CFUpperBound>0.15</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_isobutane</CFName>
+      <CFFlow>isobutane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.307</CFMainValue>
+      <CFLowerBound>0.307</CFLowerBound>
+      <CFUpperBound>0.307</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_isobutanol</CFName>
+      <CFFlow>isobutanol</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.36</CFMainValue>
+      <CFLowerBound>0.36</CFLowerBound>
+      <CFUpperBound>0.36</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_isobutene</CFName>
+      <CFFlow>isobutene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.627</CFMainValue>
+      <CFLowerBound>0.627</CFLowerBound>
+      <CFUpperBound>0.627</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_isobutyraldehyde</CFName>
+      <CFFlow>isobutyraldehyde</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.514</CFMainValue>
+      <CFLowerBound>0.514</CFLowerBound>
+      <CFUpperBound>0.514</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_isopentane</CFName>
+      <CFFlow>isopentane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.405</CFMainValue>
+      <CFLowerBound>0.405</CFLowerBound>
+      <CFUpperBound>0.405</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_isoprene</CFName>
+      <CFFlow>isoprene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>1.09</CFMainValue>
+      <CFLowerBound>1.09</CFLowerBound>
+      <CFUpperBound>1.09</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_isopropanol</CFName>
+      <CFFlow>isopropanol</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.188</CFMainValue>
+      <CFLowerBound>0.188</CFLowerBound>
+      <CFUpperBound>0.188</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_isopropyl acetate</CFName>
+      <CFFlow>isopropyl acetate</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.211</CFMainValue>
+      <CFLowerBound>0.211</CFLowerBound>
+      <CFUpperBound>0.211</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_isopropyl benzene</CFName>
+      <CFFlow>isopropyl benzene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.5</CFMainValue>
+      <CFLowerBound>0.5</CFLowerBound>
+      <CFUpperBound>0.5</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_meta-Ethyltoluene</CFName>
+      <CFFlow>meta-Ethyltoluene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>1.02</CFMainValue>
+      <CFLowerBound>1.02</CFLowerBound>
+      <CFUpperBound>1.02</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_meta-Xylene</CFName>
+      <CFFlow>meta-Xylene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>1.1</CFMainValue>
+      <CFLowerBound>1.1</CFLowerBound>
+      <CFUpperBound>1.1</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Methane</CFName>
+      <CFFlow>Methane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.006</CFMainValue>
+      <CFLowerBound>0.006</CFLowerBound>
+      <CFUpperBound>0.006</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Methanol</CFName>
+      <CFFlow>Methanol</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.14</CFMainValue>
+      <CFLowerBound>0.14</CFLowerBound>
+      <CFUpperBound>0.14</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Methyl Acetate</CFName>
+      <CFFlow>Methyl Acetate</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.059</CFMainValue>
+      <CFLowerBound>0.059</CFLowerBound>
+      <CFUpperBound>0.059</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Methyl Chloride</CFName>
+      <CFFlow>Methyl Chloride</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.005</CFMainValue>
+      <CFLowerBound>0.005</CFLowerBound>
+      <CFUpperBound>0.005</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Methyl Formate</CFName>
+      <CFFlow>Methyl Formate</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.027</CFMainValue>
+      <CFLowerBound>0.027</CFLowerBound>
+      <CFUpperBound>0.027</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Methyl Isobutyl Ketone</CFName>
+      <CFFlow>Methyl Isobutyl Ketone</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.49</CFMainValue>
+      <CFLowerBound>0.49</CFLowerBound>
+      <CFUpperBound>0.49</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Methyl propyl Ketone</CFName>
+      <CFFlow>Methyl propyl Ketone</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.548</CFMainValue>
+      <CFLowerBound>0.548</CFLowerBound>
+      <CFUpperBound>0.548</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Methyl tert-Butyl Ether</CFName>
+      <CFFlow>Methyl tert-Butyl Ether</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.175</CFMainValue>
+      <CFLowerBound>0.175</CFLowerBound>
+      <CFUpperBound>0.175</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Methyl tert-butylketone</CFName>
+      <CFFlow>Methyl tert-butylketone</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.323</CFMainValue>
+      <CFLowerBound>0.323</CFLowerBound>
+      <CFUpperBound>0.323</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Methyl-Isopropylketone</CFName>
+      <CFFlow>Methyl-Isopropylketone</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.364</CFMainValue>
+      <CFLowerBound>0.364</CFLowerBound>
+      <CFUpperBound>0.364</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Neopentane</CFName>
+      <CFFlow>Neopentane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.173</CFMainValue>
+      <CFLowerBound>0.173</CFLowerBound>
+      <CFUpperBound>0.173</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_nitrogen dioxide</CFName>
+      <CFFlow>nitrogen dioxide</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.028</CFMainValue>
+      <CFLowerBound>0.028</CFLowerBound>
+      <CFUpperBound>0.028</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_nitrogen mono oxide</CFName>
+      <CFFlow>nitrogen mono oxide</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>-0.427</CFMainValue>
+      <CFLowerBound>-0.427</CFLowerBound>
+      <CFUpperBound>-0.427</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_nitrogen oxides (as NO2)</CFName>
+      <CFFlow>nitrogen oxides (as NO2)</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>-0.095</CFMainValue>
+      <CFLowerBound>-0.095</CFLowerBound>
+      <CFUpperBound>-0.095</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Nonane</CFName>
+      <CFFlow>Nonane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.414</CFMainValue>
+      <CFLowerBound>0.414</CFLowerBound>
+      <CFUpperBound>0.414</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Octane</CFName>
+      <CFFlow>Octane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.453</CFMainValue>
+      <CFLowerBound>0.453</CFLowerBound>
+      <CFUpperBound>0.453</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_ortho-Ethyltoluene</CFName>
+      <CFFlow>ortho-Ethyltoluene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.898</CFMainValue>
+      <CFLowerBound>0.898</CFLowerBound>
+      <CFUpperBound>0.898</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_ortho-Xylene</CFName>
+      <CFFlow>ortho-Xylene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>1.1</CFMainValue>
+      <CFLowerBound>1.1</CFLowerBound>
+      <CFUpperBound>1.1</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_para-Ethyltoluene</CFName>
+      <CFFlow>para-Ethyltoluene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.906</CFMainValue>
+      <CFLowerBound>0.906</CFLowerBound>
+      <CFUpperBound>0.906</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_para-Xylene</CFName>
+      <CFFlow>para-Xylene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>1.0</CFMainValue>
+      <CFLowerBound>1.0</CFLowerBound>
+      <CFUpperBound>1.0</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Pentanaldehyde</CFName>
+      <CFFlow>Pentanaldehyde</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.765</CFMainValue>
+      <CFLowerBound>0.765</CFLowerBound>
+      <CFUpperBound>0.765</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Pentane</CFName>
+      <CFFlow>Pentane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.395</CFMainValue>
+      <CFLowerBound>0.395</CFLowerBound>
+      <CFUpperBound>0.395</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Propane</CFName>
+      <CFFlow>Propane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.176</CFMainValue>
+      <CFLowerBound>0.176</CFLowerBound>
+      <CFUpperBound>0.176</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Propanoic acid</CFName>
+      <CFFlow>Propanoic acid</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.15</CFMainValue>
+      <CFLowerBound>0.15</CFLowerBound>
+      <CFUpperBound>0.15</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Propionaldehyde</CFName>
+      <CFFlow>Propionaldehyde</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.798</CFMainValue>
+      <CFLowerBound>0.798</CFLowerBound>
+      <CFUpperBound>0.798</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Propylene</CFName>
+      <CFFlow>Propylene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>1.12</CFMainValue>
+      <CFLowerBound>1.12</CFLowerBound>
+      <CFUpperBound>1.12</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Propylene Glycol</CFName>
+      <CFFlow>Propylene Glycol</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.457</CFMainValue>
+      <CFLowerBound>0.457</CFLowerBound>
+      <CFUpperBound>0.457</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_sec-Butanol</CFName>
+      <CFFlow>sec-Butanol</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.4</CFMainValue>
+      <CFLowerBound>0.4</CFLowerBound>
+      <CFUpperBound>0.4</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_sec-Butyl Acetate</CFName>
+      <CFFlow>sec-Butyl Acetate</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.275</CFMainValue>
+      <CFLowerBound>0.275</CFLowerBound>
+      <CFUpperBound>0.275</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_styrene</CFName>
+      <CFFlow>styrene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.14</CFMainValue>
+      <CFLowerBound>0.14</CFLowerBound>
+      <CFUpperBound>0.14</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_sulphur dioxide</CFName>
+      <CFFlow>sulphur dioxide</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.048</CFMainValue>
+      <CFLowerBound>0.048</CFLowerBound>
+      <CFUpperBound>0.048</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_tertiary-Butanol</CFName>
+      <CFFlow>tertiary-Butanol</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.106</CFMainValue>
+      <CFLowerBound>0.106</CFLowerBound>
+      <CFUpperBound>0.106</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_tertiary-Butyl Acetate</CFName>
+      <CFFlow>tertiary-Butyl Acetate</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.053</CFMainValue>
+      <CFLowerBound>0.053</CFLowerBound>
+      <CFUpperBound>0.053</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_tetrachloroethylene</CFName>
+      <CFFlow>tetrachloroethylene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.029</CFMainValue>
+      <CFLowerBound>0.029</CFLowerBound>
+      <CFUpperBound>0.029</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Toluene</CFName>
+      <CFFlow>Toluene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.64</CFMainValue>
+      <CFLowerBound>0.64</CFLowerBound>
+      <CFUpperBound>0.64</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_trans-2-Butene</CFName>
+      <CFFlow>trans-2-Butene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>1.13</CFMainValue>
+      <CFLowerBound>1.13</CFLowerBound>
+      <CFUpperBound>1.13</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_trans-2-Hexene</CFName>
+      <CFFlow>trans-2-Hexene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>1.07</CFMainValue>
+      <CFLowerBound>1.07</CFLowerBound>
+      <CFUpperBound>1.07</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_trans-2-Pentene</CFName>
+      <CFFlow>trans-2-Pentene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>1.12</CFMainValue>
+      <CFLowerBound>1.12</CFLowerBound>
+      <CFUpperBound>1.12</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_trans-dichloroethene</CFName>
+      <CFFlow>trans-dichloroethene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.392</CFMainValue>
+      <CFLowerBound>0.392</CFLowerBound>
+      <CFUpperBound>0.392</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Trichloroethylene</CFName>
+      <CFFlow>Trichloroethylene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.33</CFMainValue>
+      <CFLowerBound>0.33</CFLowerBound>
+      <CFUpperBound>0.33</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Trichloromethane</CFName>
+      <CFFlow>Trichloromethane</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.023</CFMainValue>
+      <CFLowerBound>0.023</CFLowerBound>
+      <CFUpperBound>0.023</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_Volatile Organic Compounds non-methane- (non methane VOC)</CFName>
+      <CFFlow>Volatile Organic Compounds non-methane- (non methane VOC)</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>0.15</CFMainValue>
+      <CFLowerBound>0.15</CFLowerBound>
+      <CFUpperBound>0.15</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_POCP_welt_xylene</CFName>
+      <CFFlow>xylene</CFFlow>
+      <CFCategory>Bildung von troposphärischen Ozon</CFCategory>
+      <CFMainValue>1.06</CFMainValue>
+      <CFLowerBound>1.06</CFLowerBound>
+      <CFUpperBound>1.06</CFUpperBound>
+    </CFactor>
+  </CFactors>
+  <LCIAMethods>
+    <LCIAMethod>
+      <LCIA-Name>Bewertungsmethod für POCP</LCIA-Name>
+      <LCIA-Categories>
+        <LCIA-Category>Bildung von troposphärischen Ozon</LCIA-Category>
+      </LCIA-Categories>
+      <LCIA-Factors>
+        <LCIA-Factor>CF_POCP_welt_1,1,1-trichloroethane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_1,2,3-Trimethyl Benzene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_1,2,4-trimethylbenzene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_1,3,5-trimethylbenzene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_1,3-Butadiene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_1-Butanol</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_1-Butene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_1-Butoxypropanol</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_1-Butyl Acetate</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_1-Hexene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_1-Methoxy-2-propanol</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_1-Pentene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_1-Propanol</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_1-Propyl Benzene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_1-Propylacetate</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_1-Undecane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_2,2-Dimethylbutane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_2.3- Dimethylbutane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_2-butanone</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_2-Butoxy-Ethanol</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_2-Ethoxy-Ethanol</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_2-Methoxy-Ethanol</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_2-Methyl-1-Butene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_2-Methyl-2-Butene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_2-Methylbutan-1-ol</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_2-Methylbutan-2-ol</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_2-Methylhexane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_2-Methylpentane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_3,5-Diethyltoluene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_3,5-Dimethylethylbenzene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_3-Methyl-1-Butene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_3-Methylbutan-1-ol</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_3-Methylbutan-2-ol</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_3-Methylhexane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_3-Methylpentane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_3-Pentanol</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Acetaldehyde</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Acetic acid</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Acetone</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Acetylene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Benzaldehyde</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Benzene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Butane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Butyraldehyde</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Carbon Monoxide</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_cis-2-Butene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_cis-2-Hexene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_cis-2-Pentene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_cis-Dichloroethene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Cyclohexane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Cyclohexanol</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Cyclohexanone</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Decane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Diacetone alcohol</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Dichloromethane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Diethyl Ether</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Diethylketone</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Diisopropylether</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Dimethoxy methane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Dimethyl carbonate</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Dimethyl Ether</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Dodecane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Ethane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Ethanol</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Ethyl Acetate</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Ethyl- trans-Butyl Ether</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Ethylbenzene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Ethylene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Ethylene Glycol</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Formaldehyde</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Formic acid</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Heptane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Hexan-2-one</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Hexan-3-one</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Hexane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Hydrocarbons (excl. methane)</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_isobutane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_isobutanol</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_isobutene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_isobutyraldehyde</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_isopentane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_isoprene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_isopropanol</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_isopropyl acetate</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_isopropyl benzene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_meta-Ethyltoluene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_meta-Xylene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Methane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Methanol</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Methyl Acetate</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Methyl Chloride</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Methyl Formate</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Methyl Isobutyl Ketone</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Methyl propyl Ketone</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Methyl tert-Butyl Ether</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Methyl tert-butylketone</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Methyl-Isopropylketone</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Neopentane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_nitrogen dioxide</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_nitrogen mono oxide</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_nitrogen oxides (as NO2)</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Nonane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Octane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_ortho-Ethyltoluene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_ortho-Xylene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_para-Ethyltoluene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_para-Xylene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Pentanaldehyde</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Pentane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Propane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Propanoic acid</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Propionaldehyde</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Propylene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Propylene Glycol</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_sec-Butanol</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_sec-Butyl Acetate</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_styrene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_sulphur dioxide</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_tertiary-Butanol</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_tertiary-Butyl Acetate</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_tetrachloroethylene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Toluene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_trans-2-Butene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_trans-2-Hexene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_trans-2-Pentene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_trans-dichloroethene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Trichloroethylene</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Trichloromethane</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_Volatile Organic Compounds non-methane- (non methane VOC)</LCIA-Factor>
+        <LCIA-Factor>CF_POCP_welt_xylene</LCIA-Factor>
+      </LCIA-Factors>
+    </LCIAMethod>
+  </LCIAMethods>
+  <ProductDeclarations/>
+  <ImpactValueMapGroupss/>
+  <Components/>
+  <Compositions/>
+</XML>

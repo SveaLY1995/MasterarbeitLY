@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>3b24532d-7001-4793-b5c3-0f0c4bb35f4e</common:UUID>
+                  <common:shortName xml:lang='de'>ERFMI vzw, European Resilient Flooring Manufacturers&apos; Institute</common:shortName>
+                  <common:name xml:lang='de'>ERFMI vzw, European Resilient Flooring Manufacturers&apos; Institute</common:name>
+                  <contactAddress xml:lang='de'>Rue Montoyer 24, 1000 Brussels, Belgium</contactAddress>
+                  <telephone>+ 32 2 2 87 08 72</telephone>
+                  <telefax> .</telefax>
+                  <email>info@erfmi.com</email>
+                  <WWWAddress>www.erfmi.com</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2020-03-17T17:26:13.3371356+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

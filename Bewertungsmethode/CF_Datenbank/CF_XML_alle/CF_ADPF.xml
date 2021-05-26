@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+  <Flows>
+    <Flow>
+      <FlowName>coal hard (27.91 MJ/kg)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>coal soft, lignite (13.96 MJ/kg)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>natural gas (38.84 MJ/m3)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>m3</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>oil crude (41.87 MJ/kg)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>fossil fuel</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>MJ</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>coal hard (27.91 MJ/kg)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>MJ</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>coal soft, lignite (13.96 MJ/kg)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>MJ</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>natural gas (38.84 MJ/m3)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>MJ</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>oil crude (41.87 MJ/kg)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>MJ</FlowUnit>
+    </Flow>
+  </Flows>
+  <ProcessModules/>
+  <FlowValueMapGroups/>
+  <ProductSystems/>
+  <ImpactCategories>
+    <ImpactCategory>
+      <Category>Potenzial für die Verknappung von fossiler Ressourcen</Category>
+      <Indicator>MJ</Indicator>
+    </ImpactCategory>
+  </ImpactCategories>
+  <CFactors>
+    <CFactor>
+      <CFName>CF_ADPF_coal hard (27.91 MJ/kg)</CFName>
+      <CFFlow>coal hard (27.91 MJ/kg)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von fossiler Ressourcen</CFCategory>
+      <CFMainValue>27.91</CFMainValue>
+      <CFLowerBound>27.91</CFLowerBound>
+      <CFUpperBound>27.91</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPF_coal soft, lignite (13.96 MJ/kg)</CFName>
+      <CFFlow>coal soft, lignite (13.96 MJ/kg)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von fossiler Ressourcen</CFCategory>
+      <CFMainValue>13.96</CFMainValue>
+      <CFLowerBound>13.96</CFLowerBound>
+      <CFUpperBound>13.96</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPF_natural gas (38.84 MJ/m3)</CFName>
+      <CFFlow>natural gas (38.84 MJ/m3)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von fossiler Ressourcen</CFCategory>
+      <CFMainValue>38.84</CFMainValue>
+      <CFLowerBound>38.84</CFLowerBound>
+      <CFUpperBound>38.84</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPF_oil crude (41.87 MJ/kg)</CFName>
+      <CFFlow>oil crude (41.87 MJ/kg)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von fossiler Ressourcen</CFCategory>
+      <CFMainValue>41.87</CFMainValue>
+      <CFLowerBound>41.87</CFLowerBound>
+      <CFUpperBound>41.87</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPF_fossil fuel</CFName>
+      <CFFlow>fossil fuel</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von fossiler Ressourcen</CFCategory>
+      <CFMainValue>1.00</CFMainValue>
+      <CFLowerBound>1.00</CFLowerBound>
+      <CFUpperBound>1.00</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPF_coal hard (27.91 MJ/kg)</CFName>
+      <CFFlow>coal hard (27.91 MJ/kg)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von fossiler Ressourcen</CFCategory>
+      <CFMainValue>1.00</CFMainValue>
+      <CFLowerBound>1.00</CFLowerBound>
+      <CFUpperBound>1.00</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPF_coal soft, lignite (13.96 MJ/kg)</CFName>
+      <CFFlow>coal soft, lignite (13.96 MJ/kg)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von fossiler Ressourcen</CFCategory>
+      <CFMainValue>1.00</CFMainValue>
+      <CFLowerBound>1.00</CFLowerBound>
+      <CFUpperBound>1.00</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPF_natural gas (38.84 MJ/m3)</CFName>
+      <CFFlow>natural gas (38.84 MJ/m3)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von fossiler Ressourcen</CFCategory>
+      <CFMainValue>1.00</CFMainValue>
+      <CFLowerBound>1.00</CFLowerBound>
+      <CFUpperBound>1.00</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPF_oil crude (41.87 MJ/kg)</CFName>
+      <CFFlow>oil crude (41.87 MJ/kg)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von fossiler Ressourcen</CFCategory>
+      <CFMainValue>1.00</CFMainValue>
+      <CFLowerBound>1.00</CFLowerBound>
+      <CFUpperBound>1.00</CFUpperBound>
+    </CFactor>
+  </CFactors>
+  <LCIAMethods>
+    <LCIAMethod>
+      <LCIA-Name>Bewertungsmethod für ADPF</LCIA-Name>
+      <LCIA-Categories>
+        <LCIA-Category>Verknappung von fossiler Ressourcen</LCIA-Category>
+      </LCIA-Categories>
+      <LCIA-Factors>
+        <LCIA-Factor>CF_ADPF_coal hard (27.91 MJ/kg)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPF_coal soft, lignite (13.96 MJ/kg)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPF_natural gas (38.84 MJ/m3)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPF_oil crude (41.87 MJ/kg)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPF_fossil fuel</LCIA-Factor>
+        <LCIA-Factor>CF_ADPF_coal hard (27.91 MJ/kg)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPF_coal soft, lignite (13.96 MJ/kg)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPF_natural gas (38.84 MJ/m3)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPF_oil crude (41.87 MJ/kg)</LCIA-Factor>
+      </LCIA-Factors>
+    </LCIAMethod>
+  </LCIAMethods>
+  <ProductDeclarations/>
+  <ImpactValueMapGroupss/>
+  <Components/>
+  <Compositions/>
+</XML>

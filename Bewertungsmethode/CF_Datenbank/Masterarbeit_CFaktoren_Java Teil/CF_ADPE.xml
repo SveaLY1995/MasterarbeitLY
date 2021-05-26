@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+  <Flows>
+    <Flow>
+      <FlowName>aluminium (Al)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>antimony (Sb)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>arsenic (As)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>barium (Ba)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>beryllium (Be)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>bismuth (Bi)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>boron (B)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>bromine (Br)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>cadmium (Cd)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>chlorine (Cl)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>chromium (Cr)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>cobalt (Co)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>copper (Cu)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>gallium (Ga)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>germanium (Ge)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>gold (Au)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>indium (In)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>iodine (I2)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>iron (Fe)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>kalium (K;potassium)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>lead (Pb)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>lithium (Li)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>magnesium (Mg)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>manganese (Mn)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>mercury (Hg)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>molybdenum (Mo)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>nickel (Ni)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>niobium (Nb)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>palladium (Pd)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>phosphorus (P)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>platinum (Pt)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>rhenium (Re)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>selenium (Se)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>silicium (Si; silicon)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>silver (Ag)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Sodium (Na)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>strontium (Sr)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>sulfur (S)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>tantalum (Ta)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>tellurium (Te)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>thallium (Tl)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>tin (Sn)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>titanium (Ti)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>tungsten (W); wolfraam</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>uranium (U)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>vanadium (V)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>yttrium (Y)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>zinc (Zn)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+    <Flow>
+      <FlowName>Zirconium (Zr)</FlowName>
+      <FlowType>Elementary</FlowType>
+      <FlowUnit>kg</FlowUnit>
+    </Flow>
+  </Flows>
+  <ProcessModules/>
+  <FlowValueMapGroups/>
+  <ProductSystems/>
+  <ImpactCategories>
+    <ImpactCategory>
+      <Category>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</Category>
+      <Indicator>Sb äquivalent</Indicator>
+    </ImpactCategory>
+  </ImpactCategories>
+  <CFactors>
+    <CFactor>
+      <CFName>CF_ADPE_aluminium (Al)</CFName>
+      <CFFlow>aluminium (Al)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>1.09E-09</CFMainValue>
+      <CFLowerBound>1.09E-09</CFLowerBound>
+      <CFUpperBound>1.09E-09</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_antimony (Sb)</CFName>
+      <CFFlow>antimony (Sb)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>1.00E00</CFMainValue>
+      <CFLowerBound>1.00E00</CFLowerBound>
+      <CFUpperBound>1.00E00</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_arsenic (As)</CFName>
+      <CFFlow>arsenic (As)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>2.97E-03</CFMainValue>
+      <CFLowerBound>2.97E-03</CFLowerBound>
+      <CFUpperBound>2.97E-03</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_barium (Ba)</CFName>
+      <CFFlow>barium (Ba)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>6.04E-06</CFMainValue>
+      <CFLowerBound>6.04E-06</CFLowerBound>
+      <CFUpperBound>6.04E-06</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_beryllium (Be)</CFName>
+      <CFFlow>beryllium (Be)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>1.26E-05</CFMainValue>
+      <CFLowerBound>1.26E-05</CFLowerBound>
+      <CFUpperBound>1.26E-05</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_bismuth (Bi)</CFName>
+      <CFFlow>bismuth (Bi)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>4.11E-02</CFMainValue>
+      <CFLowerBound>4.11E-02</CFLowerBound>
+      <CFUpperBound>4.11E-02</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_boron (B)</CFName>
+      <CFFlow>boron (B)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>4.27E-03</CFMainValue>
+      <CFLowerBound>4.27E-03</CFLowerBound>
+      <CFUpperBound>4.27E-03</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_bromine (Br)</CFName>
+      <CFFlow>bromine (Br)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>4.39E-03</CFMainValue>
+      <CFLowerBound>4.39E-03</CFLowerBound>
+      <CFUpperBound>4.39E-03</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_cadmium (Cd)</CFName>
+      <CFFlow>cadmium (Cd)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>1.57E-01</CFMainValue>
+      <CFLowerBound>1.57E-01</CFLowerBound>
+      <CFUpperBound>1.57E-01</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_chlorine (Cl)</CFName>
+      <CFFlow>chlorine (Cl)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>2.71E-05</CFMainValue>
+      <CFLowerBound>2.71E-05</CFLowerBound>
+      <CFUpperBound>2.71E-05</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_chromium (Cr)</CFName>
+      <CFFlow>chromium (Cr)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>4.43E-04</CFMainValue>
+      <CFLowerBound>4.43E-04</CFLowerBound>
+      <CFUpperBound>4.43E-04</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_cobalt (Co)</CFName>
+      <CFFlow>cobalt (Co)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>1.57E-05</CFMainValue>
+      <CFLowerBound>1.57E-05</CFLowerBound>
+      <CFUpperBound>1.57E-05</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_copper (Cu)</CFName>
+      <CFFlow>copper (Cu)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>1.37E-03</CFMainValue>
+      <CFLowerBound>1.37E-03</CFLowerBound>
+      <CFUpperBound>1.37E-03</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_gallium (Ga)</CFName>
+      <CFFlow>gallium (Ga)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>1.46E-07</CFMainValue>
+      <CFLowerBound>1.46E-07</CFLowerBound>
+      <CFUpperBound>1.46E-07</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_germanium (Ge)</CFName>
+      <CFFlow>germanium (Ge)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>6.52E-07</CFMainValue>
+      <CFLowerBound>6.52E-07</CFLowerBound>
+      <CFUpperBound>6.52E-07</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_gold (Au)</CFName>
+      <CFFlow>gold (Au)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>5.20E01</CFMainValue>
+      <CFLowerBound>5.20E01</CFLowerBound>
+      <CFUpperBound>5.20E01</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_indium (In)</CFName>
+      <CFFlow>indium (In)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>6.89E-03</CFMainValue>
+      <CFLowerBound>6.89E-03</CFLowerBound>
+      <CFUpperBound>6.89E-03</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_iodine (I2)</CFName>
+      <CFFlow>iodine (I2)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>2.50E-02</CFMainValue>
+      <CFLowerBound>2.50E-02</CFLowerBound>
+      <CFUpperBound>2.50E-02</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_iron (Fe)</CFName>
+      <CFFlow>iron (Fe)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>5.24E-08</CFMainValue>
+      <CFLowerBound>5.24E-08</CFLowerBound>
+      <CFUpperBound>5.24E-08</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_kalium (K;potassium)</CFName>
+      <CFFlow>kalium (K;potassium)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>1.60E-08</CFMainValue>
+      <CFLowerBound>1.60E-08</CFLowerBound>
+      <CFUpperBound>1.60E-08</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_lead (Pb)</CFName>
+      <CFFlow>lead (Pb)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>6.34E-03</CFMainValue>
+      <CFLowerBound>6.34E-03</CFLowerBound>
+      <CFUpperBound>6.34E-03</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_lithium (Li)</CFName>
+      <CFFlow>lithium (Li)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>1.15E-05</CFMainValue>
+      <CFLowerBound>1.15E-05</CFLowerBound>
+      <CFUpperBound>1.15E-05</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_magnesium (Mg)</CFName>
+      <CFFlow>magnesium (Mg)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>2.02E-09</CFMainValue>
+      <CFLowerBound>2.02E-09</CFLowerBound>
+      <CFUpperBound>2.02E-09</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_manganese (Mn)</CFName>
+      <CFFlow>manganese (Mn)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>2.54E-06</CFMainValue>
+      <CFLowerBound>2.54E-06</CFLowerBound>
+      <CFUpperBound>2.54E-06</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_mercury (Hg)</CFName>
+      <CFFlow>mercury (Hg)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>9.22E-02</CFMainValue>
+      <CFLowerBound>9.22E-02</CFLowerBound>
+      <CFUpperBound>9.22E-02</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_molybdenum (Mo)</CFName>
+      <CFFlow>molybdenum (Mo)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>1.78E-02</CFMainValue>
+      <CFLowerBound>1.78E-02</CFLowerBound>
+      <CFUpperBound>1.78E-02</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_nickel (Ni)</CFName>
+      <CFFlow>nickel (Ni)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>6.53E-05</CFMainValue>
+      <CFLowerBound>6.53E-05</CFLowerBound>
+      <CFUpperBound>6.53E-05</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_niobium (Nb)</CFName>
+      <CFFlow>niobium (Nb)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>1.93E-05</CFMainValue>
+      <CFLowerBound>1.93E-05</CFLowerBound>
+      <CFUpperBound>1.93E-05</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_palladium (Pd)</CFName>
+      <CFFlow>palladium (Pd)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>5.71E-01</CFMainValue>
+      <CFLowerBound>5.71E-01</CFLowerBound>
+      <CFUpperBound>5.71E-01</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_phosphorus (P)</CFName>
+      <CFFlow>phosphorus (P)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>5.52E-06</CFMainValue>
+      <CFLowerBound>5.52E-06</CFLowerBound>
+      <CFUpperBound>5.52E-06</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_platinum (Pt)</CFName>
+      <CFFlow>platinum (Pt)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>2.22E00</CFMainValue>
+      <CFLowerBound>2.22E00</CFLowerBound>
+      <CFUpperBound>2.22E00</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_rhenium (Re)</CFName>
+      <CFFlow>rhenium (Re)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>6.03E-01</CFMainValue>
+      <CFLowerBound>6.03E-01</CFLowerBound>
+      <CFUpperBound>6.03E-01</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_selenium (Se)</CFName>
+      <CFFlow>selenium (Se)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>1.94E-01</CFMainValue>
+      <CFLowerBound>1.94E-01</CFLowerBound>
+      <CFUpperBound>1.94E-01</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_silicium (Si; silicon)</CFName>
+      <CFFlow>silicium (Si; silicon)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>1.40E-11</CFMainValue>
+      <CFLowerBound>1.40E-11</CFLowerBound>
+      <CFUpperBound>1.40E-11</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_silver (Ag)</CFName>
+      <CFFlow>silver (Ag)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>1.18E00</CFMainValue>
+      <CFLowerBound>1.18E00</CFLowerBound>
+      <CFUpperBound>1.18E00</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_Sodium (Na)</CFName>
+      <CFFlow>Sodium (Na)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>5.50E-08</CFMainValue>
+      <CFLowerBound>5.50E-08</CFLowerBound>
+      <CFUpperBound>5.50E-08</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_strontium (Sr)</CFName>
+      <CFFlow>strontium (Sr)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>7.07E-07</CFMainValue>
+      <CFLowerBound>7.07E-07</CFLowerBound>
+      <CFUpperBound>7.07E-07</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_sulfur (S)</CFName>
+      <CFFlow>sulfur (S)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>1.93E-04</CFMainValue>
+      <CFLowerBound>1.93E-04</CFLowerBound>
+      <CFUpperBound>1.93E-04</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_tantalum (Ta)</CFName>
+      <CFFlow>tantalum (Ta)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>4.06E-05</CFMainValue>
+      <CFLowerBound>4.06E-05</CFLowerBound>
+      <CFUpperBound>4.06E-05</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_tellurium (Te)</CFName>
+      <CFFlow>tellurium (Te)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>4.07E01</CFMainValue>
+      <CFLowerBound>4.07E01</CFLowerBound>
+      <CFUpperBound>4.07E01</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_thallium (Tl)</CFName>
+      <CFFlow>thallium (Tl)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>2.43E-05</CFMainValue>
+      <CFLowerBound>2.43E-05</CFLowerBound>
+      <CFUpperBound>2.43E-05</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_tin (Sn)</CFName>
+      <CFFlow>tin (Sn)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>1.62E-02</CFMainValue>
+      <CFLowerBound>1.62E-02</CFLowerBound>
+      <CFUpperBound>1.62E-02</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_titanium (Ti)</CFName>
+      <CFFlow>titanium (Ti)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>2.79E-08</CFMainValue>
+      <CFLowerBound>2.79E-08</CFLowerBound>
+      <CFUpperBound>2.79E-08</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_tungsten (W); wolfraam</CFName>
+      <CFFlow>tungsten (W); wolfraam</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>4.52E-03</CFMainValue>
+      <CFLowerBound>4.52E-03</CFLowerBound>
+      <CFUpperBound>4.52E-03</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_uranium (U)</CFName>
+      <CFFlow>uranium (U)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>1.40E-03</CFMainValue>
+      <CFLowerBound>1.40E-03</CFLowerBound>
+      <CFUpperBound>1.40E-03</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_vanadium (V)</CFName>
+      <CFFlow>vanadium (V)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>7.70E-07</CFMainValue>
+      <CFLowerBound>7.70E-07</CFLowerBound>
+      <CFUpperBound>7.70E-07</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_yttrium (Y)</CFName>
+      <CFFlow>yttrium (Y)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>5.69E-07</CFMainValue>
+      <CFLowerBound>5.69E-07</CFLowerBound>
+      <CFUpperBound>5.69E-07</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_zinc (Zn)</CFName>
+      <CFFlow>zinc (Zn)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>5.38E-04</CFMainValue>
+      <CFLowerBound>5.38E-04</CFLowerBound>
+      <CFUpperBound>5.38E-04</CFUpperBound>
+    </CFactor>
+    <CFactor>
+      <CFName>CF_ADPE_Zirconium (Zr)</CFName>
+      <CFFlow>Zirconium (Zr)</CFFlow>
+      <CFCategory>Potenzial für die Verknappung von abiotischen Ressourcen(Elemente)</CFCategory>
+      <CFMainValue>5.44E-06</CFMainValue>
+      <CFLowerBound>5.44E-06</CFLowerBound>
+      <CFUpperBound>5.44E-06</CFUpperBound>
+    </CFactor>
+  </CFactors>
+  <LCIAMethods>
+    <LCIAMethod>
+      <LCIA-Name>Bewertungsmethod für ADPE</LCIA-Name>
+      <LCIA-Categories>
+        <LCIA-Category>Verknappung von abiotischen Ressourcen(Elemente)</LCIA-Category>
+      </LCIA-Categories>
+      <LCIA-Factors>
+        <LCIA-Factor>CF_ADPE_aluminium (Al)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_antimony (Sb)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_arsenic (As)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_barium (Ba)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_beryllium (Be)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_bismuth (Bi)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_boron (B)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_bromine (Br)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_cadmium (Cd)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_chlorine (Cl)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_chromium (Cr)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_cobalt (Co)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_copper (Cu)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_gallium (Ga)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_germanium (Ge)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_gold (Au)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_indium (In)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_iodine (I2)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_iron (Fe)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_kalium (K;potassium)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_lead (Pb)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_lithium (Li)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_magnesium (Mg)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_manganese (Mn)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_mercury (Hg)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_molybdenum (Mo)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_nickel (Ni)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_niobium (Nb)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_palladium (Pd)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_phosphorus (P)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_platinum (Pt)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_rhenium (Re)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_selenium (Se)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_silicium (Si; silicon)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_silver (Ag)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_Sodium (Na)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_strontium (Sr)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_sulfur (S)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_tantalum (Ta)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_tellurium (Te)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_thallium (Tl)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_tin (Sn)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_titanium (Ti)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_tungsten (W); wolfraam</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_uranium (U)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_vanadium (V)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_yttrium (Y)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_zinc (Zn)</LCIA-Factor>
+        <LCIA-Factor>CF_ADPE_Zirconium (Zr)</LCIA-Factor>
+      </LCIA-Factors>
+    </LCIAMethod>
+  </LCIAMethods>
+  <ProductDeclarations/>
+  <ImpactValueMapGroupss/>
+  <Components/>
+  <Compositions/>
+</XML>
